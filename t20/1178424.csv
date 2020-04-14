@@ -1,0 +1,69 @@
+version,1.3.0
+info,team,Royal Challengers Bangalore
+info,team,Rajasthan Royals
+info,gender,male
+info,season,2019
+info,date,2019/04/30
+info,competition,Indian Premier League
+info,match_number,49
+info,venue,M.Chinnaswamy Stadium
+info,city,Bengaluru
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,umpire,UV Gandhe
+info,umpire,NJ Llong
+info,reserve_umpire,GR Sadashiv Iyer
+info,tv_umpire,AK Chaudhary
+info,match_referee,V Narayan Kutty
+info,outcome,no result
+ball,1,0.1,Royal Challengers Bangalore,V Kohli,AB de Villiers,VR Aaron,6,0,"",""
+ball,1,0.2,Royal Challengers Bangalore,V Kohli,AB de Villiers,VR Aaron,6,0,"",""
+ball,1,0.3,Royal Challengers Bangalore,V Kohli,AB de Villiers,VR Aaron,1,0,"",""
+ball,1,0.4,Royal Challengers Bangalore,AB de Villiers,V Kohli,VR Aaron,4,0,"",""
+ball,1,0.5,Royal Challengers Bangalore,AB de Villiers,V Kohli,VR Aaron,2,0,"",""
+ball,1,0.6,Royal Challengers Bangalore,AB de Villiers,V Kohli,VR Aaron,4,0,"",""
+ball,1,1.1,Royal Challengers Bangalore,V Kohli,AB de Villiers,S Gopal,6,0,"",""
+ball,1,1.2,Royal Challengers Bangalore,V Kohli,AB de Villiers,S Gopal,4,0,"",""
+ball,1,1.3,Royal Challengers Bangalore,V Kohli,AB de Villiers,S Gopal,2,0,"",""
+ball,1,1.4,Royal Challengers Bangalore,V Kohli,AB de Villiers,S Gopal,0,0,caught,V Kohli
+ball,1,1.5,Royal Challengers Bangalore,AB de Villiers,MP Stoinis,S Gopal,0,0,caught,AB de Villiers
+ball,1,1.6,Royal Challengers Bangalore,MP Stoinis,H Klaasen,S Gopal,0,0,caught,MP Stoinis
+ball,1,2.1,Royal Challengers Bangalore,H Klaasen,Gurkeerat Singh,R Parag,2,0,"",""
+ball,1,2.2,Royal Challengers Bangalore,H Klaasen,Gurkeerat Singh,R Parag,1,0,"",""
+ball,1,2.3,Royal Challengers Bangalore,Gurkeerat Singh,H Klaasen,R Parag,2,0,"",""
+ball,1,2.4,Royal Challengers Bangalore,Gurkeerat Singh,H Klaasen,R Parag,4,0,"",""
+ball,1,2.5,Royal Challengers Bangalore,Gurkeerat Singh,H Klaasen,R Parag,0,0,caught,Gurkeerat Singh
+ball,1,2.6,Royal Challengers Bangalore,H Klaasen,PA Patel,R Parag,1,0,"",""
+ball,1,3.1,Royal Challengers Bangalore,H Klaasen,PA Patel,JD Unadkat,1,0,"",""
+ball,1,3.2,Royal Challengers Bangalore,PA Patel,H Klaasen,JD Unadkat,4,0,"",""
+ball,1,3.3,Royal Challengers Bangalore,PA Patel,H Klaasen,JD Unadkat,2,0,"",""
+ball,1,3.4,Royal Challengers Bangalore,PA Patel,H Klaasen,JD Unadkat,2,0,"",""
+ball,1,3.5,Royal Challengers Bangalore,PA Patel,H Klaasen,JD Unadkat,0,0,"",""
+ball,1,3.6,Royal Challengers Bangalore,PA Patel,H Klaasen,JD Unadkat,0,0,caught,PA Patel
+ball,1,4.1,Royal Challengers Bangalore,H Klaasen,P Negi,O Thomas,0,1,"",""
+ball,1,4.2,Royal Challengers Bangalore,H Klaasen,P Negi,O Thomas,1,0,"",""
+ball,1,4.3,Royal Challengers Bangalore,P Negi,H Klaasen,O Thomas,0,1,"",""
+ball,1,4.4,Royal Challengers Bangalore,H Klaasen,P Negi,O Thomas,0,0,caught,H Klaasen
+ball,1,4.5,Royal Challengers Bangalore,P Negi,UT Yadav,O Thomas,4,0,"",""
+ball,1,4.6,Royal Challengers Bangalore,P Negi,UT Yadav,O Thomas,0,0,caught,P Negi
+ball,1,4.7,Royal Challengers Bangalore,NA Saini,UT Yadav,O Thomas,0,1,"",""
+ball,2,0.1,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,0,0,"",""
+ball,2,0.2,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,6,0,"",""
+ball,2,0.3,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,4,0,"",""
+ball,2,0.4,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,0,0,"",""
+ball,2,0.5,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,0,0,"",""
+ball,2,0.6,Rajasthan Royals,SV Samson,LS Livingstone,UT Yadav,0,0,"",""
+ball,2,1.1,Rajasthan Royals,LS Livingstone,SV Samson,NA Saini,4,0,"",""
+ball,2,1.2,Rajasthan Royals,LS Livingstone,SV Samson,NA Saini,6,0,"",""
+ball,2,1.3,Rajasthan Royals,LS Livingstone,SV Samson,NA Saini,1,0,"",""
+ball,2,1.4,Rajasthan Royals,SV Samson,LS Livingstone,NA Saini,1,0,"",""
+ball,2,1.5,Rajasthan Royals,LS Livingstone,SV Samson,NA Saini,0,0,"",""
+ball,2,1.6,Rajasthan Royals,LS Livingstone,SV Samson,NA Saini,0,0,"",""
+ball,2,2.1,Rajasthan Royals,SV Samson,LS Livingstone,K Khejroliya,6,0,"",""
+ball,2,2.2,Rajasthan Royals,SV Samson,LS Livingstone,K Khejroliya,1,0,"",""
+ball,2,2.3,Rajasthan Royals,LS Livingstone,SV Samson,K Khejroliya,0,1,"",""
+ball,2,2.4,Rajasthan Royals,SV Samson,LS Livingstone,K Khejroliya,0,0,"",""
+ball,2,2.5,Rajasthan Royals,SV Samson,LS Livingstone,K Khejroliya,6,0,"",""
+ball,2,2.6,Rajasthan Royals,SV Samson,LS Livingstone,K Khejroliya,4,0,"",""
+ball,2,3.1,Rajasthan Royals,LS Livingstone,SV Samson,YS Chahal,0,1,"",""
+ball,2,3.2,Rajasthan Royals,SV Samson,LS Livingstone,YS Chahal,0,0,caught,SV Samson

@@ -1,0 +1,164 @@
+version,1.3.0
+info,team,South Africa
+info,team,West Indies
+info,gender,male
+info,season,2007/08
+info,date,2007/12/16
+info,series,West Indies in South Africa T20I Series
+info,match_number,1
+info,venue,St George's Park
+info,city,Port Elizabeth
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,JE Taylor
+info,umpire,IL Howell
+info,umpire,BG Jerling
+info,reserve_umpire,LJ Willemse
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,West Indies
+info,winner_wickets,5
+ball,1,0.1,South Africa,MN van Wyk,HH Gibbs,DBL Powell,0,0,"",""
+ball,1,0.2,South Africa,MN van Wyk,HH Gibbs,DBL Powell,0,0,"",""
+ball,1,0.3,South Africa,MN van Wyk,HH Gibbs,DBL Powell,1,0,"",""
+ball,1,0.4,South Africa,HH Gibbs,MN van Wyk,DBL Powell,0,0,"",""
+ball,1,0.5,South Africa,HH Gibbs,MN van Wyk,DBL Powell,0,0,"",""
+ball,1,0.6,South Africa,HH Gibbs,MN van Wyk,DBL Powell,0,4,"",""
+ball,1,1.1,South Africa,MN van Wyk,HH Gibbs,JE Taylor,0,0,lbw,MN van Wyk
+ball,1,1.2,South Africa,JP Duminy,HH Gibbs,JE Taylor,0,0,bowled,JP Duminy
+ball,1,1.3,South Africa,AB de Villiers,HH Gibbs,JE Taylor,0,0,"",""
+ball,1,1.4,South Africa,AB de Villiers,HH Gibbs,JE Taylor,0,0,"",""
+ball,1,1.5,South Africa,AB de Villiers,HH Gibbs,JE Taylor,0,0,"",""
+ball,1,1.6,South Africa,AB de Villiers,HH Gibbs,JE Taylor,0,0,bowled,AB de Villiers
+ball,1,2.1,South Africa,HH Gibbs,GH Bodi,DBL Powell,0,0,caught,HH Gibbs
+ball,1,2.2,South Africa,SM Pollock,GH Bodi,DBL Powell,1,0,"",""
+ball,1,2.3,South Africa,GH Bodi,SM Pollock,DBL Powell,0,1,"",""
+ball,1,2.4,South Africa,GH Bodi,SM Pollock,DBL Powell,0,0,"",""
+ball,1,2.5,South Africa,GH Bodi,SM Pollock,DBL Powell,1,0,"",""
+ball,1,2.6,South Africa,SM Pollock,GH Bodi,DBL Powell,0,0,"",""
+ball,1,2.7,South Africa,SM Pollock,GH Bodi,DBL Powell,0,0,"",""
+ball,1,3.1,South Africa,GH Bodi,SM Pollock,JE Taylor,1,0,"",""
+ball,1,3.2,South Africa,SM Pollock,GH Bodi,JE Taylor,0,0,"",""
+ball,1,3.3,South Africa,SM Pollock,GH Bodi,JE Taylor,1,0,"",""
+ball,1,3.4,South Africa,GH Bodi,SM Pollock,JE Taylor,0,0,run out,SM Pollock
+ball,1,3.5,South Africa,JA Morkel,GH Bodi,JE Taylor,0,0,"",""
+ball,1,3.6,South Africa,JA Morkel,GH Bodi,JE Taylor,0,0,"",""
+ball,1,4.1,South Africa,GH Bodi,JA Morkel,DBL Powell,0,0,"",""
+ball,1,4.2,South Africa,GH Bodi,JA Morkel,DBL Powell,0,0,"",""
+ball,1,4.3,South Africa,GH Bodi,JA Morkel,DBL Powell,0,0,"",""
+ball,1,4.4,South Africa,GH Bodi,JA Morkel,DBL Powell,1,0,"",""
+ball,1,4.5,South Africa,JA Morkel,GH Bodi,DBL Powell,1,0,"",""
+ball,1,4.6,South Africa,GH Bodi,JA Morkel,DBL Powell,0,0,"",""
+ball,1,5.1,South Africa,JA Morkel,GH Bodi,JE Taylor,0,0,run out,JA Morkel
+ball,1,5.2,South Africa,GH Bodi,VD Philander,JE Taylor,0,0,"",""
+ball,1,5.3,South Africa,GH Bodi,VD Philander,JE Taylor,1,0,"",""
+ball,1,5.4,South Africa,VD Philander,GH Bodi,JE Taylor,1,0,"",""
+ball,1,5.5,South Africa,GH Bodi,VD Philander,JE Taylor,0,1,"",""
+ball,1,5.6,South Africa,GH Bodi,VD Philander,JE Taylor,1,0,"",""
+ball,1,5.7,South Africa,VD Philander,GH Bodi,JE Taylor,0,0,"",""
+ball,1,6.1,South Africa,GH Bodi,VD Philander,DJ Bravo,0,0,"",""
+ball,1,6.2,South Africa,GH Bodi,VD Philander,DJ Bravo,1,0,"",""
+ball,1,6.3,South Africa,VD Philander,GH Bodi,DJ Bravo,0,0,"",""
+ball,1,6.4,South Africa,VD Philander,GH Bodi,DJ Bravo,0,0,"",""
+ball,1,6.5,South Africa,VD Philander,GH Bodi,DJ Bravo,0,0,"",""
+ball,1,6.6,South Africa,VD Philander,GH Bodi,DJ Bravo,1,0,"",""
+ball,1,7.1,South Africa,VD Philander,GH Bodi,FH Edwards,0,1,"",""
+ball,1,7.2,South Africa,VD Philander,GH Bodi,FH Edwards,0,1,"",""
+ball,1,7.3,South Africa,VD Philander,GH Bodi,FH Edwards,2,0,"",""
+ball,1,7.4,South Africa,VD Philander,GH Bodi,FH Edwards,0,0,lbw,VD Philander
+ball,1,7.5,South Africa,J Botha,GH Bodi,FH Edwards,0,0,"",""
+ball,1,7.6,South Africa,J Botha,GH Bodi,FH Edwards,1,0,"",""
+ball,1,7.7,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,7.8,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,8.1,South Africa,J Botha,GH Bodi,DJG Sammy,0,0,"",""
+ball,1,8.2,South Africa,J Botha,GH Bodi,DJG Sammy,0,0,"",""
+ball,1,8.3,South Africa,J Botha,GH Bodi,DJG Sammy,1,0,"",""
+ball,1,8.4,South Africa,GH Bodi,J Botha,DJG Sammy,1,0,"",""
+ball,1,8.5,South Africa,J Botha,GH Bodi,DJG Sammy,0,0,"",""
+ball,1,8.6,South Africa,J Botha,GH Bodi,DJG Sammy,0,0,"",""
+ball,1,9.1,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,9.2,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,9.3,South Africa,GH Bodi,J Botha,FH Edwards,1,0,"",""
+ball,1,9.4,South Africa,J Botha,GH Bodi,FH Edwards,1,0,"",""
+ball,1,9.5,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,9.6,South Africa,GH Bodi,J Botha,FH Edwards,0,1,"",""
+ball,1,9.7,South Africa,GH Bodi,J Botha,FH Edwards,0,0,"",""
+ball,1,10.1,South Africa,J Botha,GH Bodi,DJG Sammy,6,0,"",""
+ball,1,10.2,South Africa,J Botha,GH Bodi,DJG Sammy,0,1,"",""
+ball,1,10.3,South Africa,GH Bodi,J Botha,DJG Sammy,0,1,"",""
+ball,1,10.4,South Africa,J Botha,GH Bodi,DJG Sammy,1,0,"",""
+ball,1,10.5,South Africa,GH Bodi,J Botha,DJG Sammy,0,0,"",""
+ball,1,10.6,South Africa,GH Bodi,J Botha,DJG Sammy,0,0,bowled,GH Bodi
+ball,1,11.1,South Africa,J Botha,DW Steyn,FH Edwards,0,0,"",""
+ball,1,11.2,South Africa,J Botha,DW Steyn,FH Edwards,0,0,"",""
+ball,1,11.3,South Africa,J Botha,DW Steyn,FH Edwards,4,0,"",""
+ball,1,11.4,South Africa,J Botha,DW Steyn,FH Edwards,0,0,"",""
+ball,1,11.5,South Africa,J Botha,DW Steyn,FH Edwards,0,0,"",""
+ball,1,11.6,South Africa,J Botha,DW Steyn,FH Edwards,0,1,"",""
+ball,1,11.7,South Africa,J Botha,DW Steyn,FH Edwards,1,0,"",""
+ball,1,12.1,South Africa,J Botha,DW Steyn,DJ Bravo,1,0,"",""
+ball,1,12.2,South Africa,DW Steyn,J Botha,DJ Bravo,1,0,"",""
+ball,1,12.3,South Africa,J Botha,DW Steyn,DJ Bravo,4,0,"",""
+ball,1,12.4,South Africa,J Botha,DW Steyn,DJ Bravo,2,0,"",""
+ball,1,12.5,South Africa,J Botha,DW Steyn,DJ Bravo,6,0,"",""
+ball,1,12.6,South Africa,J Botha,DW Steyn,DJ Bravo,0,1,"",""
+ball,2,0.1,West Indies,BA Parchment,DS Smith,SM Pollock,4,0,"",""
+ball,2,0.2,West Indies,BA Parchment,DS Smith,SM Pollock,0,0,"",""
+ball,2,0.3,West Indies,BA Parchment,DS Smith,SM Pollock,0,0,"",""
+ball,2,0.4,West Indies,BA Parchment,DS Smith,SM Pollock,6,0,"",""
+ball,2,0.5,West Indies,BA Parchment,DS Smith,SM Pollock,0,0,"",""
+ball,2,0.6,West Indies,BA Parchment,DS Smith,SM Pollock,0,0,caught,BA Parchment
+ball,2,1.1,West Indies,DS Smith,RS Morton,M Ntini,1,0,"",""
+ball,2,1.2,West Indies,RS Morton,DS Smith,M Ntini,0,0,"",""
+ball,2,1.3,West Indies,RS Morton,DS Smith,M Ntini,4,0,"",""
+ball,2,1.4,West Indies,RS Morton,DS Smith,M Ntini,0,0,"",""
+ball,2,1.5,West Indies,RS Morton,DS Smith,M Ntini,4,0,"",""
+ball,2,1.6,West Indies,RS Morton,DS Smith,M Ntini,0,0,"",""
+ball,2,2.1,West Indies,DS Smith,RS Morton,SM Pollock,0,0,"",""
+ball,2,2.2,West Indies,DS Smith,RS Morton,SM Pollock,1,0,"",""
+ball,2,2.3,West Indies,RS Morton,DS Smith,SM Pollock,1,0,"",""
+ball,2,2.4,West Indies,DS Smith,RS Morton,SM Pollock,1,0,"",""
+ball,2,2.5,West Indies,RS Morton,DS Smith,SM Pollock,6,0,"",""
+ball,2,2.6,West Indies,RS Morton,DS Smith,SM Pollock,0,0,"",""
+ball,2,3.1,West Indies,DS Smith,RS Morton,DW Steyn,0,0,"",""
+ball,2,3.2,West Indies,DS Smith,RS Morton,DW Steyn,4,0,"",""
+ball,2,3.3,West Indies,DS Smith,RS Morton,DW Steyn,0,0,bowled,DS Smith
+ball,2,3.4,West Indies,S Chanderpaul,RS Morton,DW Steyn,0,0,"",""
+ball,2,3.5,West Indies,S Chanderpaul,RS Morton,DW Steyn,0,0,"",""
+ball,2,3.6,West Indies,S Chanderpaul,RS Morton,DW Steyn,0,0,"",""
+ball,2,4.1,West Indies,RS Morton,S Chanderpaul,M Ntini,0,0,"",""
+ball,2,4.2,West Indies,RS Morton,S Chanderpaul,M Ntini,4,0,"",""
+ball,2,4.3,West Indies,RS Morton,S Chanderpaul,M Ntini,0,0,"",""
+ball,2,4.4,West Indies,RS Morton,S Chanderpaul,M Ntini,0,1,"",""
+ball,2,4.5,West Indies,S Chanderpaul,RS Morton,M Ntini,1,0,"",""
+ball,2,4.6,West Indies,RS Morton,S Chanderpaul,M Ntini,1,0,"",""
+ball,2,5.1,West Indies,RS Morton,S Chanderpaul,DW Steyn,0,0,bowled,RS Morton
+ball,2,5.2,West Indies,MN Samuels,S Chanderpaul,DW Steyn,0,0,"",""
+ball,2,5.3,West Indies,MN Samuels,S Chanderpaul,DW Steyn,1,0,"",""
+ball,2,5.4,West Indies,S Chanderpaul,MN Samuels,DW Steyn,1,0,"",""
+ball,2,5.5,West Indies,MN Samuels,S Chanderpaul,DW Steyn,0,0,bowled,MN Samuels
+ball,2,5.6,West Indies,DJ Bravo,S Chanderpaul,DW Steyn,0,0,bowled,DJ Bravo
+ball,2,6.1,West Indies,S Chanderpaul,D Ramdin,M Ntini,0,0,"",""
+ball,2,6.2,West Indies,S Chanderpaul,D Ramdin,M Ntini,0,0,"",""
+ball,2,6.3,West Indies,S Chanderpaul,D Ramdin,M Ntini,0,0,"",""
+ball,2,6.4,West Indies,S Chanderpaul,D Ramdin,M Ntini,1,0,"",""
+ball,2,6.5,West Indies,D Ramdin,S Chanderpaul,M Ntini,0,0,"",""
+ball,2,6.6,West Indies,D Ramdin,S Chanderpaul,M Ntini,0,0,"",""
+ball,2,7.1,West Indies,S Chanderpaul,D Ramdin,DW Steyn,1,0,"",""
+ball,2,7.2,West Indies,D Ramdin,S Chanderpaul,DW Steyn,0,0,"",""
+ball,2,7.3,West Indies,D Ramdin,S Chanderpaul,DW Steyn,0,0,"",""
+ball,2,7.4,West Indies,D Ramdin,S Chanderpaul,DW Steyn,0,0,"",""
+ball,2,7.5,West Indies,D Ramdin,S Chanderpaul,DW Steyn,1,0,"",""
+ball,2,7.6,West Indies,S Chanderpaul,D Ramdin,DW Steyn,1,0,"",""
+ball,2,8.1,West Indies,S Chanderpaul,D Ramdin,JA Morkel,1,0,"",""
+ball,2,8.2,West Indies,D Ramdin,S Chanderpaul,JA Morkel,2,0,"",""
+ball,2,8.3,West Indies,D Ramdin,S Chanderpaul,JA Morkel,0,0,"",""
+ball,2,8.4,West Indies,D Ramdin,S Chanderpaul,JA Morkel,1,0,"",""
+ball,2,8.5,West Indies,S Chanderpaul,D Ramdin,JA Morkel,0,0,"",""
+ball,2,8.6,West Indies,S Chanderpaul,D Ramdin,JA Morkel,1,0,"",""
+ball,2,9.1,West Indies,S Chanderpaul,D Ramdin,VD Philander,0,0,"",""
+ball,2,9.2,West Indies,S Chanderpaul,D Ramdin,VD Philander,1,0,"",""
+ball,2,9.3,West Indies,D Ramdin,S Chanderpaul,VD Philander,0,1,"",""
+ball,2,9.4,West Indies,D Ramdin,S Chanderpaul,VD Philander,0,0,"",""
+ball,2,9.5,West Indies,D Ramdin,S Chanderpaul,VD Philander,4,0,"",""
+ball,2,9.6,West Indies,D Ramdin,S Chanderpaul,VD Philander,4,0,"",""

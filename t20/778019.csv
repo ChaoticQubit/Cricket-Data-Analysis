@@ -1,0 +1,120 @@
+version,1.3.0
+info,team,Kuwait
+info,team,Nepal
+info,gender,male
+info,season,2014/15
+info,date,2014/09/27
+info,series,Asian Games Men's Cricket Competition
+info,match_number,2
+info,venue,Yeonhui Cricket Ground
+info,city,Incheon
+info,neutralvenue,true
+info,toss_winner,Kuwait
+info,toss_decision,bat
+info,umpire,Irfan Ghafoor
+info,umpire,Sarika Prasad
+info,reserve_umpire,B Ramani
+info,match_referee,SLV Raju
+info,winner,Nepal
+info,winner_wickets,9
+ball,1,0.1,Kuwait,Beidas Tareq,Eissa Jassim,Sompal Kami,0,0,"",""
+ball,1,0.2,Kuwait,Beidas Tareq,Eissa Jassim,Sompal Kami,0,1,"",""
+ball,1,0.3,Kuwait,Beidas Tareq,Eissa Jassim,Sompal Kami,1,0,"",""
+ball,1,0.4,Kuwait,Eissa Jassim,Beidas Tareq,Sompal Kami,0,0,"",""
+ball,1,0.5,Kuwait,Eissa Jassim,Beidas Tareq,Sompal Kami,0,0,"",""
+ball,1,0.6,Kuwait,Eissa Jassim,Beidas Tareq,Sompal Kami,0,0,bowled,Eissa Jassim
+ball,1,0.7,Kuwait,Bastaki Mahmoud,Beidas Tareq,Sompal Kami,0,0,"",""
+ball,1,1.1,Kuwait,Beidas Tareq,Bastaki Mahmoud,M Alam,0,0,"",""
+ball,1,1.2,Kuwait,Beidas Tareq,Bastaki Mahmoud,M Alam,0,0,"",""
+ball,1,1.3,Kuwait,Beidas Tareq,Bastaki Mahmoud,M Alam,0,0,"",""
+ball,1,1.4,Kuwait,Beidas Tareq,Bastaki Mahmoud,M Alam,0,0,run out,Bastaki Mahmoud
+ball,1,1.5,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,1.6,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,2.1,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,2.2,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,2.3,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,2.4,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,2.5,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,2.6,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,3.1,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,3.2,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,1,"",""
+ball,1,3.3,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,3.4,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,1,0,"",""
+ball,1,3.5,Kuwait,Beidas Tareq,Bastaki Fahad,M Alam,1,0,"",""
+ball,1,3.6,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,3.7,Kuwait,Bastaki Fahad,Beidas Tareq,M Alam,0,0,"",""
+ball,1,4.1,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,4.2,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,2,0,"",""
+ball,1,4.3,Kuwait,Beidas Tareq,Bastaki Fahad,Sompal Kami,0,0,bowled,Beidas Tareq
+ball,1,4.4,Kuwait,Alkandari Abdulrahman,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,4.5,Kuwait,Alkandari Abdulrahman,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,4.6,Kuwait,Alkandari Abdulrahman,Bastaki Fahad,Sompal Kami,0,0,bowled,Alkandari Abdulrahman
+ball,1,5.1,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,5.2,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,5.3,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,5.4,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,1,"",""
+ball,1,5.5,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,5.6,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,5.7,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,6.1,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sompal Kami,0,0,"",""
+ball,1,6.2,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sompal Kami,0,1,"",""
+ball,1,6.3,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sompal Kami,0,0,"",""
+ball,1,6.4,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sompal Kami,0,0,"",""
+ball,1,6.5,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sompal Kami,0,0,"",""
+ball,1,6.6,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sompal Kami,0,0,"",""
+ball,1,7.1,Kuwait,Abdulrahman Dashti,Bastaki Fahad,SP Gauchan,1,0,"",""
+ball,1,7.2,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,7.3,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,7.4,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,7.5,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,7.6,Kuwait,Bastaki Fahad,Abdulrahman Dashti,SP Gauchan,0,0,"",""
+ball,1,8.1,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sagar Pun,0,0,"",""
+ball,1,8.2,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sagar Pun,0,0,"",""
+ball,1,8.3,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sagar Pun,1,0,"",""
+ball,1,8.4,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sagar Pun,0,0,"",""
+ball,1,8.5,Kuwait,Bastaki Fahad,Abdulrahman Dashti,Sagar Pun,1,0,"",""
+ball,1,8.6,Kuwait,Abdulrahman Dashti,Bastaki Fahad,Sagar Pun,0,0,caught,Abdulrahman Dashti
+ball,1,9.1,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,9.2,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,9.3,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,9.4,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,9.5,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,9.6,Kuwait,Bastaki Fahad,Alkandari Mohammad,SP Gauchan,0,0,"",""
+ball,1,10.1,Kuwait,Alkandari Mohammad,Bastaki Fahad,Sagar Pun,1,0,"",""
+ball,1,10.2,Kuwait,Bastaki Fahad,Alkandari Mohammad,Sagar Pun,0,0,"",""
+ball,1,10.3,Kuwait,Bastaki Fahad,Alkandari Mohammad,Sagar Pun,0,0,"",""
+ball,1,10.4,Kuwait,Bastaki Fahad,Alkandari Mohammad,Sagar Pun,0,0,"",""
+ball,1,10.5,Kuwait,Bastaki Fahad,Alkandari Mohammad,Sagar Pun,2,0,"",""
+ball,1,10.6,Kuwait,Bastaki Fahad,Alkandari Mohammad,Sagar Pun,0,0,"",""
+ball,1,11.1,Kuwait,Alkandari Mohammad,Bastaki Fahad,B Regmi,0,0,lbw,Alkandari Mohammad
+ball,1,11.2,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,1,"",""
+ball,1,11.3,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,0,"",""
+ball,1,11.4,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,0,"",""
+ball,1,11.5,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,0,"",""
+ball,1,11.6,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,2,"",""
+ball,1,11.7,Kuwait,Alotaibi Mohammed,Bastaki Fahad,B Regmi,0,0,caught,Alotaibi Mohammed
+ball,1,12.1,Kuwait,Bastaki Fahad,Alqallaf Mohammad,Sagar Pun,0,0,"",""
+ball,1,12.2,Kuwait,Bastaki Fahad,Alqallaf Mohammad,Sagar Pun,0,0,"",""
+ball,1,12.3,Kuwait,Bastaki Fahad,Alqallaf Mohammad,Sagar Pun,0,0,lbw,Bastaki Fahad
+ball,1,12.4,Kuwait,Yousif Alzaid,Alqallaf Mohammad,Sagar Pun,0,0,"",""
+ball,1,12.5,Kuwait,Yousif Alzaid,Alqallaf Mohammad,Sagar Pun,1,0,"",""
+ball,1,12.6,Kuwait,Alqallaf Mohammad,Yousif Alzaid,Sagar Pun,1,0,"",""
+ball,1,13.1,Kuwait,Alqallaf Mohammad,Yousif Alzaid,B Regmi,0,0,run out,Alqallaf Mohammad
+ball,1,13.2,Kuwait,Ali Bushahri,Yousif Alzaid,B Regmi,0,0,bowled,Ali Bushahri
+ball,2,0.1,Nepal,SP Khakurel,Sagar Pun,Alkandari Abdulrahman,1,0,"",""
+ball,2,0.2,Nepal,Sagar Pun,SP Khakurel,Alkandari Abdulrahman,0,0,"",""
+ball,2,0.3,Nepal,Sagar Pun,SP Khakurel,Alkandari Abdulrahman,0,0,"",""
+ball,2,0.4,Nepal,Sagar Pun,SP Khakurel,Alkandari Abdulrahman,0,0,"",""
+ball,2,0.5,Nepal,Sagar Pun,SP Khakurel,Alkandari Abdulrahman,4,0,"",""
+ball,2,0.6,Nepal,Sagar Pun,SP Khakurel,Alkandari Abdulrahman,1,0,"",""
+ball,2,1.1,Nepal,Sagar Pun,SP Khakurel,Bastaki Mahmoud,4,0,"",""
+ball,2,1.2,Nepal,Sagar Pun,SP Khakurel,Bastaki Mahmoud,0,0,caught,Sagar Pun
+ball,2,1.3,Nepal,B Bhandari,SP Khakurel,Bastaki Mahmoud,0,0,"",""
+ball,2,1.4,Nepal,B Bhandari,SP Khakurel,Bastaki Mahmoud,0,0,"",""
+ball,2,1.5,Nepal,B Bhandari,SP Khakurel,Bastaki Mahmoud,4,0,"",""
+ball,2,1.6,Nepal,B Bhandari,SP Khakurel,Bastaki Mahmoud,0,0,"",""
+ball,2,2.1,Nepal,SP Khakurel,B Bhandari,Alkandari Abdulrahman,4,0,"",""
+ball,2,2.2,Nepal,SP Khakurel,B Bhandari,Alkandari Abdulrahman,1,0,"",""
+ball,2,2.3,Nepal,B Bhandari,SP Khakurel,Alkandari Abdulrahman,0,0,"",""
+ball,2,2.4,Nepal,B Bhandari,SP Khakurel,Alkandari Abdulrahman,1,0,"",""
+ball,2,2.5,Nepal,SP Khakurel,B Bhandari,Alkandari Abdulrahman,1,0,"",""

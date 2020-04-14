@@ -1,0 +1,64 @@
+version,1.3.0
+info,team,South Africa
+info,team,West Indies
+info,gender,male
+info,season,2019
+info,date,2019/06/10
+info,competition,World Cup
+info,match_number,15
+info,venue,The Rose Bowl
+info,city,Southampton
+info,toss_winner,West Indies
+info,toss_decision,field
+info,umpire,P Wilson
+info,umpire,RJ Tucker
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,S Ravi
+info,match_referee,DC Boon
+info,outcome,no result
+ball,1,0.1,South Africa,Q de Kock,HM Amla,SS Cottrell,0,0,"",""
+ball,1,0.2,South Africa,Q de Kock,HM Amla,SS Cottrell,0,0,"",""
+ball,1,0.3,South Africa,Q de Kock,HM Amla,SS Cottrell,0,0,"",""
+ball,1,0.4,South Africa,Q de Kock,HM Amla,SS Cottrell,0,0,"",""
+ball,1,0.5,South Africa,Q de Kock,HM Amla,SS Cottrell,1,0,"",""
+ball,1,0.6,South Africa,HM Amla,Q de Kock,SS Cottrell,2,0,"",""
+ball,1,1.1,South Africa,Q de Kock,HM Amla,KAJ Roach,0,0,"",""
+ball,1,1.2,South Africa,Q de Kock,HM Amla,KAJ Roach,0,0,"",""
+ball,1,1.3,South Africa,Q de Kock,HM Amla,KAJ Roach,1,0,"",""
+ball,1,1.4,South Africa,HM Amla,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,1.5,South Africa,HM Amla,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,1.6,South Africa,HM Amla,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,2.1,South Africa,Q de Kock,HM Amla,SS Cottrell,0,0,"",""
+ball,1,2.2,South Africa,Q de Kock,HM Amla,SS Cottrell,3,0,"",""
+ball,1,2.3,South Africa,HM Amla,Q de Kock,SS Cottrell,4,0,"",""
+ball,1,2.4,South Africa,HM Amla,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,2.5,South Africa,HM Amla,Q de Kock,SS Cottrell,0,0,caught,HM Amla
+ball,1,2.6,South Africa,AK Markram,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,3.1,South Africa,Q de Kock,AK Markram,KAJ Roach,0,1,"",""
+ball,1,3.2,South Africa,Q de Kock,AK Markram,KAJ Roach,0,0,"",""
+ball,1,3.3,South Africa,Q de Kock,AK Markram,KAJ Roach,1,0,"",""
+ball,1,3.4,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,3.5,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,3.6,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,3.7,South Africa,AK Markram,Q de Kock,KAJ Roach,4,0,"",""
+ball,1,4.1,South Africa,Q de Kock,AK Markram,SS Cottrell,2,0,"",""
+ball,1,4.2,South Africa,Q de Kock,AK Markram,SS Cottrell,0,0,"",""
+ball,1,4.3,South Africa,Q de Kock,AK Markram,SS Cottrell,0,0,"",""
+ball,1,4.4,South Africa,Q de Kock,AK Markram,SS Cottrell,2,0,"",""
+ball,1,4.5,South Africa,Q de Kock,AK Markram,SS Cottrell,0,0,"",""
+ball,1,4.6,South Africa,Q de Kock,AK Markram,SS Cottrell,4,0,"",""
+ball,1,5.1,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,5.2,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,5.3,South Africa,AK Markram,Q de Kock,KAJ Roach,0,0,"",""
+ball,1,5.4,South Africa,AK Markram,Q de Kock,KAJ Roach,1,0,"",""
+ball,1,5.5,South Africa,Q de Kock,AK Markram,KAJ Roach,0,0,"",""
+ball,1,5.6,South Africa,Q de Kock,AK Markram,KAJ Roach,2,0,"",""
+ball,1,6.1,South Africa,AK Markram,Q de Kock,SS Cottrell,0,0,caught,AK Markram
+ball,1,6.2,South Africa,F du Plessis,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,6.3,South Africa,F du Plessis,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,6.4,South Africa,F du Plessis,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,6.5,South Africa,F du Plessis,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,6.6,South Africa,F du Plessis,Q de Kock,SS Cottrell,0,0,"",""
+ball,1,7.1,South Africa,Q de Kock,F du Plessis,O Thomas,1,0,"",""
+ball,1,7.2,South Africa,F du Plessis,Q de Kock,O Thomas,0,0,"",""
+ball,1,7.3,South Africa,F du Plessis,Q de Kock,O Thomas,0,0,"",""

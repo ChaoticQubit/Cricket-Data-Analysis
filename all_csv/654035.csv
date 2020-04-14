@@ -1,0 +1,55 @@
+version,1.3.0
+info,team,Hobart Hurricanes
+info,team,Adelaide Strikers
+info,gender,male
+info,season,2013/14
+info,date,2013/12/22
+info,competition,Big Bash League
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,umpire,MD Martell
+info,umpire,SJ Nogajski
+info,reserve_umpire,JM Mitchell
+info,tv_umpire,MW Graham-Smith
+info,match_referee,DJ Harper
+info,outcome,no result
+ball,1,0.1,Adelaide Strikers,M Klinger,AD Hales,JM Mennie,4,0,"",""
+ball,1,0.2,Adelaide Strikers,M Klinger,AD Hales,JM Mennie,0,1,"",""
+ball,1,0.3,Adelaide Strikers,AD Hales,M Klinger,JM Mennie,0,1,"",""
+ball,1,0.4,Adelaide Strikers,M Klinger,AD Hales,JM Mennie,4,0,"",""
+ball,1,0.5,Adelaide Strikers,M Klinger,AD Hales,JM Mennie,1,0,"",""
+ball,1,0.6,Adelaide Strikers,AD Hales,M Klinger,JM Mennie,4,0,"",""
+ball,1,1.1,Adelaide Strikers,M Klinger,AD Hales,DE Bollinger,0,0,"",""
+ball,1,1.2,Adelaide Strikers,M Klinger,AD Hales,DE Bollinger,0,0,"",""
+ball,1,1.3,Adelaide Strikers,M Klinger,AD Hales,DE Bollinger,0,1,"",""
+ball,1,1.4,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,2,0,"",""
+ball,1,1.5,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,0,0,"",""
+ball,1,1.6,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,4,0,"",""
+ball,1,2.1,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,0,1,"",""
+ball,1,2.2,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,6,0,"",""
+ball,1,2.3,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,4,0,"",""
+ball,1,2.4,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,0,1,"",""
+ball,1,2.5,Adelaide Strikers,AD Hales,M Klinger,XJ Doherty,1,0,"",""
+ball,1,2.6,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,4,0,"",""
+ball,1,2.7,Adelaide Strikers,M Klinger,AD Hales,XJ Doherty,1,0,"",""
+ball,1,3.1,Adelaide Strikers,M Klinger,AD Hales,DE Bollinger,1,0,"",""
+ball,1,3.2,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,4,0,"",""
+ball,1,3.3,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,2,0,"",""
+ball,1,3.4,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,4,0,"",""
+ball,1,3.5,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,4,0,"",""
+ball,1,3.6,Adelaide Strikers,AD Hales,M Klinger,DE Bollinger,0,0,"",""
+ball,1,4.1,Adelaide Strikers,M Klinger,AD Hales,EP Gulbis,1,0,"",""
+ball,1,4.2,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,4,0,"",""
+ball,1,4.3,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,0,1,"",""
+ball,1,4.4,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,4,0,"",""
+ball,1,4.5,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,4,0,"",""
+ball,1,4.6,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,6,0,"",""
+ball,1,4.7,Adelaide Strikers,AD Hales,M Klinger,EP Gulbis,4,0,"",""
+ball,1,5.1,Adelaide Strikers,M Klinger,AD Hales,B Laughlin,4,0,"",""
+ball,1,5.2,Adelaide Strikers,M Klinger,AD Hales,B Laughlin,1,0,"",""
+ball,1,5.3,Adelaide Strikers,AD Hales,M Klinger,B Laughlin,0,0,"",""
+ball,1,5.4,Adelaide Strikers,AD Hales,M Klinger,B Laughlin,0,0,"",""
+ball,1,5.5,Adelaide Strikers,AD Hales,M Klinger,B Laughlin,2,0,run out,AD Hales
+ball,1,5.6,Adelaide Strikers,M Klinger,PJ Hughes,B Laughlin,1,0,"",""

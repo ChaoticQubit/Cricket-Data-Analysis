@@ -1,0 +1,155 @@
+version,1.3.0
+info,team,Ireland
+info,team,Papua New Guinea
+info,gender,male
+info,season,2015/16
+info,date,2016/02/07
+info,series,Papua New Guinea v Ireland T20I Series
+info,match_number,2
+info,venue,Tony Ireland Stadium
+info,city,Townsville
+info,neutralvenue,true
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,umpire,BB Pradhan
+info,umpire,RJ Tucker
+info,match_referee,SR Bernard
+info,winner,Ireland
+info,winner_runs,7
+info,method,D/L
+ball,1,0.1,Ireland,WTS Porterfield,A Balbirnie,A Vala,4,0,"",""
+ball,1,0.2,Ireland,WTS Porterfield,A Balbirnie,A Vala,4,0,"",""
+ball,1,0.3,Ireland,WTS Porterfield,A Balbirnie,A Vala,1,0,"",""
+ball,1,0.4,Ireland,A Balbirnie,WTS Porterfield,A Vala,0,0,caught,A Balbirnie
+ball,1,0.5,Ireland,SW Poynter,WTS Porterfield,A Vala,1,0,"",""
+ball,1,0.6,Ireland,WTS Porterfield,SW Poynter,A Vala,1,0,"",""
+ball,1,1.1,Ireland,WTS Porterfield,SW Poynter,N Vanua,2,0,"",""
+ball,1,1.2,Ireland,WTS Porterfield,SW Poynter,N Vanua,4,0,"",""
+ball,1,1.3,Ireland,WTS Porterfield,SW Poynter,N Vanua,1,0,"",""
+ball,1,1.4,Ireland,SW Poynter,WTS Porterfield,N Vanua,2,0,"",""
+ball,1,1.5,Ireland,SW Poynter,WTS Porterfield,N Vanua,2,0,"",""
+ball,1,1.6,Ireland,SW Poynter,WTS Porterfield,N Vanua,0,1,"",""
+ball,1,2.1,Ireland,SW Poynter,WTS Porterfield,JB Reva,0,0,"",""
+ball,1,2.2,Ireland,SW Poynter,WTS Porterfield,JB Reva,1,0,"",""
+ball,1,2.3,Ireland,WTS Porterfield,SW Poynter,JB Reva,6,0,"",""
+ball,1,2.4,Ireland,WTS Porterfield,SW Poynter,JB Reva,1,0,"",""
+ball,1,2.5,Ireland,SW Poynter,WTS Porterfield,JB Reva,6,0,"",""
+ball,1,2.6,Ireland,SW Poynter,WTS Porterfield,JB Reva,1,0,"",""
+ball,1,3.1,Ireland,SW Poynter,WTS Porterfield,MD Dai,3,0,"",""
+ball,1,3.2,Ireland,WTS Porterfield,SW Poynter,MD Dai,2,0,"",""
+ball,1,3.3,Ireland,WTS Porterfield,SW Poynter,MD Dai,1,0,"",""
+ball,1,3.4,Ireland,SW Poynter,WTS Porterfield,MD Dai,1,0,"",""
+ball,1,3.5,Ireland,WTS Porterfield,SW Poynter,MD Dai,2,0,"",""
+ball,1,3.6,Ireland,WTS Porterfield,SW Poynter,MD Dai,1,0,"",""
+ball,1,4.1,Ireland,WTS Porterfield,SW Poynter,A Vala,0,0,"",""
+ball,1,4.2,Ireland,WTS Porterfield,SW Poynter,A Vala,0,0,bowled,WTS Porterfield
+ball,1,4.3,Ireland,GC Wilson,SW Poynter,A Vala,2,0,"",""
+ball,1,4.4,Ireland,GC Wilson,SW Poynter,A Vala,1,0,"",""
+ball,1,4.5,Ireland,SW Poynter,GC Wilson,A Vala,4,0,"",""
+ball,1,4.6,Ireland,SW Poynter,GC Wilson,A Vala,1,0,"",""
+ball,1,5.1,Ireland,SW Poynter,GC Wilson,MD Dai,1,0,"",""
+ball,1,5.2,Ireland,GC Wilson,SW Poynter,MD Dai,2,0,"",""
+ball,1,5.3,Ireland,GC Wilson,SW Poynter,MD Dai,0,0,"",""
+ball,1,5.4,Ireland,GC Wilson,SW Poynter,MD Dai,1,0,"",""
+ball,1,5.5,Ireland,SW Poynter,GC Wilson,MD Dai,0,0,"",""
+ball,1,5.6,Ireland,SW Poynter,GC Wilson,MD Dai,1,0,"",""
+ball,1,6.1,Ireland,SW Poynter,GC Wilson,CJA Amini,1,0,"",""
+ball,1,6.2,Ireland,GC Wilson,SW Poynter,CJA Amini,1,0,"",""
+ball,1,6.3,Ireland,SW Poynter,GC Wilson,CJA Amini,6,0,"",""
+ball,1,6.4,Ireland,SW Poynter,GC Wilson,CJA Amini,0,0,"",""
+ball,1,6.5,Ireland,SW Poynter,GC Wilson,CJA Amini,0,0,"",""
+ball,1,6.6,Ireland,SW Poynter,GC Wilson,CJA Amini,1,0,"",""
+ball,1,7.1,Ireland,SW Poynter,GC Wilson,P Raho,0,0,"",""
+ball,1,7.2,Ireland,SW Poynter,GC Wilson,P Raho,1,0,"",""
+ball,1,7.3,Ireland,GC Wilson,SW Poynter,P Raho,2,0,"",""
+ball,1,7.4,Ireland,GC Wilson,SW Poynter,P Raho,1,0,"",""
+ball,1,7.5,Ireland,SW Poynter,GC Wilson,P Raho,2,0,"",""
+ball,1,7.6,Ireland,SW Poynter,GC Wilson,P Raho,0,0,caught,SW Poynter
+ball,1,8.1,Ireland,GC Wilson,SR Thompson,N Pokana,2,0,"",""
+ball,1,8.2,Ireland,GC Wilson,SR Thompson,N Pokana,0,1,"",""
+ball,1,8.3,Ireland,GC Wilson,SR Thompson,N Pokana,1,0,"",""
+ball,1,8.4,Ireland,SR Thompson,GC Wilson,N Pokana,4,0,"",""
+ball,1,8.5,Ireland,SR Thompson,GC Wilson,N Pokana,0,0,"",""
+ball,1,8.6,Ireland,SR Thompson,GC Wilson,N Pokana,0,0,"",""
+ball,1,8.7,Ireland,SR Thompson,GC Wilson,N Pokana,0,0,"",""
+ball,1,9.1,Ireland,GC Wilson,SR Thompson,P Raho,0,0,caught,GC Wilson
+ball,1,9.2,Ireland,SR Thompson,AD Poynter,P Raho,1,0,"",""
+ball,1,9.3,Ireland,AD Poynter,SR Thompson,P Raho,1,0,"",""
+ball,1,9.4,Ireland,SR Thompson,AD Poynter,P Raho,0,0,caught,SR Thompson
+ball,1,9.5,Ireland,AD Poynter,MC Sorensen,P Raho,2,0,"",""
+ball,1,9.6,Ireland,AD Poynter,MC Sorensen,P Raho,1,0,"",""
+ball,1,10.1,Ireland,AD Poynter,MC Sorensen,N Vanua,1,0,"",""
+ball,1,10.2,Ireland,MC Sorensen,AD Poynter,N Vanua,2,0,"",""
+ball,1,10.3,Ireland,MC Sorensen,AD Poynter,N Vanua,1,0,"",""
+ball,1,10.4,Ireland,AD Poynter,MC Sorensen,N Vanua,0,1,"",""
+ball,1,10.5,Ireland,MC Sorensen,AD Poynter,N Vanua,1,0,"",""
+ball,1,10.6,Ireland,AD Poynter,MC Sorensen,N Vanua,1,0,"",""
+ball,2,0.1,Papua New Guinea,A Vala,VV Morea,CA Young,0,0,"",""
+ball,2,0.2,Papua New Guinea,A Vala,VV Morea,CA Young,1,0,"",""
+ball,2,0.3,Papua New Guinea,VV Morea,A Vala,CA Young,4,0,"",""
+ball,2,0.4,Papua New Guinea,VV Morea,A Vala,CA Young,1,0,"",""
+ball,2,0.5,Papua New Guinea,A Vala,VV Morea,CA Young,0,0,"",""
+ball,2,0.6,Papua New Guinea,A Vala,VV Morea,CA Young,2,0,"",""
+ball,2,1.1,Papua New Guinea,VV Morea,A Vala,TJ Murtagh,1,0,"",""
+ball,2,1.2,Papua New Guinea,A Vala,VV Morea,TJ Murtagh,1,0,"",""
+ball,2,1.3,Papua New Guinea,VV Morea,A Vala,TJ Murtagh,0,0,caught,VV Morea
+ball,2,1.4,Papua New Guinea,A Vala,L Siaka,TJ Murtagh,1,0,"",""
+ball,2,1.5,Papua New Guinea,L Siaka,A Vala,TJ Murtagh,2,0,"",""
+ball,2,1.6,Papua New Guinea,L Siaka,A Vala,TJ Murtagh,0,0,"",""
+ball,2,2.1,Papua New Guinea,A Vala,L Siaka,CA Young,6,0,"",""
+ball,2,2.2,Papua New Guinea,A Vala,L Siaka,CA Young,1,0,"",""
+ball,2,2.3,Papua New Guinea,L Siaka,A Vala,CA Young,0,0,"",""
+ball,2,2.4,Papua New Guinea,L Siaka,A Vala,CA Young,1,0,"",""
+ball,2,2.5,Papua New Guinea,A Vala,L Siaka,CA Young,1,0,"",""
+ball,2,2.6,Papua New Guinea,L Siaka,A Vala,CA Young,4,0,"",""
+ball,2,3.1,Papua New Guinea,A Vala,L Siaka,MC Sorensen,1,0,"",""
+ball,2,3.2,Papua New Guinea,L Siaka,A Vala,MC Sorensen,0,1,"",""
+ball,2,3.3,Papua New Guinea,L Siaka,A Vala,MC Sorensen,1,0,"",""
+ball,2,3.4,Papua New Guinea,A Vala,L Siaka,MC Sorensen,0,0,"",""
+ball,2,3.5,Papua New Guinea,A Vala,L Siaka,MC Sorensen,1,0,"",""
+ball,2,3.6,Papua New Guinea,L Siaka,A Vala,MC Sorensen,0,0,caught,L Siaka
+ball,2,3.7,Papua New Guinea,A Vala,MD Dai,MC Sorensen,4,0,"",""
+ball,2,4.1,Papua New Guinea,MD Dai,A Vala,AR McBrine,1,0,"",""
+ball,2,4.2,Papua New Guinea,A Vala,MD Dai,AR McBrine,6,0,"",""
+ball,2,4.3,Papua New Guinea,A Vala,MD Dai,AR McBrine,0,0,bowled,A Vala
+ball,2,4.4,Papua New Guinea,S Bau,MD Dai,AR McBrine,0,0,"",""
+ball,2,4.5,Papua New Guinea,S Bau,MD Dai,AR McBrine,0,0,"",""
+ball,2,4.6,Papua New Guinea,S Bau,MD Dai,AR McBrine,0,0,bowled,S Bau
+ball,2,5.1,Papua New Guinea,MD Dai,JNT Vare,SR Thompson,0,0,"",""
+ball,2,5.2,Papua New Guinea,MD Dai,JNT Vare,SR Thompson,0,0,"",""
+ball,2,5.3,Papua New Guinea,MD Dai,JNT Vare,SR Thompson,2,0,"",""
+ball,2,5.4,Papua New Guinea,MD Dai,JNT Vare,SR Thompson,2,0,"",""
+ball,2,5.5,Papua New Guinea,MD Dai,JNT Vare,SR Thompson,1,0,"",""
+ball,2,5.6,Papua New Guinea,JNT Vare,MD Dai,SR Thompson,2,0,"",""
+ball,2,6.1,Papua New Guinea,MD Dai,JNT Vare,GH Dockrell,0,0,lbw,MD Dai
+ball,2,6.2,Papua New Guinea,CJA Amini,JNT Vare,GH Dockrell,1,0,"",""
+ball,2,6.3,Papua New Guinea,JNT Vare,CJA Amini,GH Dockrell,0,0,lbw,JNT Vare
+ball,2,6.4,Papua New Guinea,JB Reva,CJA Amini,GH Dockrell,0,0,"",""
+ball,2,6.5,Papua New Guinea,JB Reva,CJA Amini,GH Dockrell,1,0,"",""
+ball,2,6.6,Papua New Guinea,CJA Amini,JB Reva,GH Dockrell,1,0,"",""
+ball,2,7.1,Papua New Guinea,CJA Amini,JB Reva,MC Sorensen,0,0,caught,CJA Amini
+ball,2,7.2,Papua New Guinea,JB Reva,N Vanua,MC Sorensen,6,0,"",""
+ball,2,7.3,Papua New Guinea,JB Reva,N Vanua,MC Sorensen,0,0,"",""
+ball,2,7.4,Papua New Guinea,JB Reva,N Vanua,MC Sorensen,0,0,caught,JB Reva
+ball,2,7.5,Papua New Guinea,N Pokana,N Vanua,MC Sorensen,1,0,"",""
+ball,2,7.6,Papua New Guinea,N Vanua,N Pokana,MC Sorensen,0,1,"",""
+ball,2,7.7,Papua New Guinea,N Vanua,N Pokana,MC Sorensen,1,0,"",""
+ball,2,8.1,Papua New Guinea,N Vanua,N Pokana,GH Dockrell,1,0,"",""
+ball,2,8.2,Papua New Guinea,N Pokana,N Vanua,GH Dockrell,1,0,"",""
+ball,2,8.3,Papua New Guinea,N Vanua,N Pokana,GH Dockrell,0,0,"",""
+ball,2,8.4,Papua New Guinea,N Vanua,N Pokana,GH Dockrell,1,0,"",""
+ball,2,8.5,Papua New Guinea,N Pokana,N Vanua,GH Dockrell,0,0,caught,N Pokana
+ball,2,8.6,Papua New Guinea,N Vanua,P Raho,GH Dockrell,1,0,"",""
+ball,2,9.1,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,6,0,"",""
+ball,2,9.2,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,1,0,"",""
+ball,2,9.3,Papua New Guinea,P Raho,N Vanua,TJ Murtagh,1,0,"",""
+ball,2,9.4,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,2,0,"",""
+ball,2,9.5,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,0,1,"",""
+ball,2,9.6,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,2,0,"",""
+ball,2,9.7,Papua New Guinea,N Vanua,P Raho,TJ Murtagh,1,0,"",""
+ball,2,10.1,Papua New Guinea,N Vanua,P Raho,GH Dockrell,2,0,"",""
+ball,2,10.2,Papua New Guinea,N Vanua,P Raho,GH Dockrell,0,0,"",""
+ball,2,10.3,Papua New Guinea,N Vanua,P Raho,GH Dockrell,1,0,"",""
+ball,2,10.4,Papua New Guinea,P Raho,N Vanua,GH Dockrell,1,0,"",""
+ball,2,10.5,Papua New Guinea,N Vanua,P Raho,GH Dockrell,6,0,"",""
+ball,2,10.6,Papua New Guinea,N Vanua,P Raho,GH Dockrell,1,0,"",""

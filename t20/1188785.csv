@@ -1,0 +1,78 @@
+version,1.3.0
+info,team,Rwanda
+info,team,Mali
+info,gender,female
+info,season,2019
+info,date,2019/06/18
+info,competition,Kwibuka Women's Twenty20 Tournament
+info,match_number,2
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Mali
+info,toss_decision,bat
+info,player_of_match,J Nyirankundineza
+info,umpire,Vicky Prajapati
+info,umpire,Jackson Nzayisenga
+info,reserve_umpire,John Mayeku
+info,winner,Rwanda
+info,winner_wickets,10
+ball,1,0.1,Mali,M Samake,R Cisse,MD Bimenyimana,0,0,"",""
+ball,1,0.2,Mali,M Samake,R Cisse,MD Bimenyimana,0,1,"",""
+ball,1,0.3,Mali,M Samake,R Cisse,MD Bimenyimana,0,0,"",""
+ball,1,0.4,Mali,M Samake,R Cisse,MD Bimenyimana,0,0,"",""
+ball,1,0.5,Mali,M Samake,R Cisse,MD Bimenyimana,0,0,"",""
+ball,1,0.6,Mali,M Samake,R Cisse,MD Bimenyimana,1,0,"",""
+ball,1,0.7,Mali,R Cisse,M Samake,MD Bimenyimana,0,0,caught,R Cisse
+ball,1,1.1,Mali,M Samake,N Traore,M Vumiliya,0,0,caught,M Samake
+ball,1,1.2,Mali,O Sow,N Traore,M Vumiliya,0,0,"",""
+ball,1,1.3,Mali,O Sow,N Traore,M Vumiliya,0,0,"",""
+ball,1,1.4,Mali,O Sow,N Traore,M Vumiliya,0,0,"",""
+ball,1,1.5,Mali,O Sow,N Traore,M Vumiliya,0,0,"",""
+ball,1,1.6,Mali,O Sow,N Traore,M Vumiliya,0,1,"",""
+ball,1,2.1,Mali,O Sow,N Traore,MD Bimenyimana,0,0,run out,O Sow
+ball,1,2.2,Mali,A Kone,N Traore,MD Bimenyimana,0,0,"",""
+ball,1,2.3,Mali,A Kone,N Traore,MD Bimenyimana,0,0,"",""
+ball,1,2.4,Mali,A Kone,N Traore,MD Bimenyimana,0,0,bowled,A Kone
+ball,1,2.5,Mali,M Coulibaly,N Traore,MD Bimenyimana,0,0,"",""
+ball,1,2.6,Mali,M Coulibaly,N Traore,MD Bimenyimana,0,1,"",""
+ball,1,3.1,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,3.2,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,3.3,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,3.4,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,3.5,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,3.6,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,4.1,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,4.2,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,4.3,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,4.4,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,4.5,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,4.6,Mali,N Traore,M Coulibaly,MD Bimenyimana,0,0,"",""
+ball,1,5.1,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,5.2,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,5.3,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,"",""
+ball,1,5.4,Mali,M Coulibaly,N Traore,M Vumiliya,0,0,caught,M Coulibaly
+ball,1,5.5,Mali,T Konate,N Traore,M Vumiliya,0,0,run out,N Traore
+ball,1,5.6,Mali,T Konate,A Sangare,M Vumiliya,0,0,"",""
+ball,1,6.1,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,"",""
+ball,1,6.2,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,"",""
+ball,1,6.3,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,"",""
+ball,1,6.4,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,"",""
+ball,1,6.5,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,"",""
+ball,1,6.6,Mali,A Sangare,T Konate,J Nyirankundineza,0,0,bowled,A Sangare
+ball,1,7.1,Mali,T Konate,Y Sangare,V Iriho,0,0,"",""
+ball,1,7.2,Mali,T Konate,Y Sangare,V Iriho,0,0,"",""
+ball,1,7.3,Mali,T Konate,Y Sangare,V Iriho,0,0,"",""
+ball,1,7.4,Mali,T Konate,Y Sangare,V Iriho,0,0,"",""
+ball,1,7.5,Mali,T Konate,Y Sangare,V Iriho,0,0,bowled,T Konate
+ball,1,7.6,Mali,B Coulibaly,Y Sangare,V Iriho,0,0,"",""
+ball,1,8.1,Mali,Y Sangare,B Coulibaly,J Nyirankundineza,0,0,"",""
+ball,1,8.2,Mali,Y Sangare,B Coulibaly,J Nyirankundineza,0,0,lbw,Y Sangare
+ball,1,8.3,Mali,S Kagnassy,B Coulibaly,J Nyirankundineza,0,2,"",""
+ball,1,8.4,Mali,S Kagnassy,B Coulibaly,J Nyirankundineza,0,0,"",""
+ball,1,8.5,Mali,S Kagnassy,B Coulibaly,J Nyirankundineza,0,0,"",""
+ball,1,8.6,Mali,S Kagnassy,B Coulibaly,J Nyirankundineza,0,0,lbw,S Kagnassy
+ball,2,0.1,Rwanda,A Uwimbabazi,J Nyirankundineza,Y Sangare,0,1,"",""
+ball,2,0.2,Rwanda,A Uwimbabazi,J Nyirankundineza,Y Sangare,1,0,"",""
+ball,2,0.3,Rwanda,J Nyirankundineza,A Uwimbabazi,Y Sangare,1,0,"",""
+ball,2,0.4,Rwanda,A Uwimbabazi,J Nyirankundineza,Y Sangare,1,0,"",""
+ball,2,0.5,Rwanda,J Nyirankundineza,A Uwimbabazi,Y Sangare,4,0,"",""

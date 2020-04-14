@@ -1,0 +1,28 @@
+version,1.3.0
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2016
+info,date,2016/06/19
+info,series,West Indies Tri-Nation Series
+info,match_number,7
+info,venue,"Kensington Oval, Bridgetown"
+info,city,Barbados
+info,neutralvenue,true
+info,toss_winner,Australia
+info,toss_decision,field
+info,umpire,HDPK Dharmasena
+info,umpire,JS Wilson
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,RA Kettleborough
+info,match_referee,JJ Crowe
+info,outcome,no result
+ball,1,0.1,South Africa,Q de Kock,HM Amla,MA Starc,0,1,"",""
+ball,1,0.2,South Africa,Q de Kock,HM Amla,MA Starc,4,0,"",""
+ball,1,0.3,South Africa,Q de Kock,HM Amla,MA Starc,0,0,"",""
+ball,1,0.4,South Africa,Q de Kock,HM Amla,MA Starc,0,0,"",""
+ball,1,0.5,South Africa,Q de Kock,HM Amla,MA Starc,0,1,"",""
+ball,1,0.6,South Africa,Q de Kock,HM Amla,MA Starc,0,0,"",""
+ball,1,0.7,South Africa,Q de Kock,HM Amla,MA Starc,1,0,"",""
+ball,1,0.8,South Africa,HM Amla,Q de Kock,MA Starc,0,1,"",""
+ball,1,0.9,South Africa,HM Amla,Q de Kock,MA Starc,0,0,"",""

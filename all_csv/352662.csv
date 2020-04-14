@@ -1,0 +1,32 @@
+version,1.3.0
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2008/09
+info,date,2009/02/13
+info,date,2009/02/14
+info,date,2009/02/15
+info,date,2009/02/16
+info,date,2009/02/17
+info,series,The Wisden Trophy
+info,match_number,2
+info,venue,"Sir Vivian Richards Stadium, North Sound"
+info,city,Antigua
+info,toss_winner,West Indies
+info,toss_decision,field
+info,umpire,DJ Harper
+info,umpire,AL Hill
+info,reserve_umpire,NA Malcolm
+info,tv_umpire,RE Koertzen
+info,match_referee,AG Hurst
+info,outcome,draw
+ball,1,0.1,England,AJ Strauss,AN Cook,JE Taylor,2,0,"",""
+ball,1,0.2,England,AJ Strauss,AN Cook,JE Taylor,0,0,"",""
+ball,1,0.3,England,AJ Strauss,AN Cook,JE Taylor,2,0,"",""
+ball,1,0.4,England,AJ Strauss,AN Cook,JE Taylor,0,0,"",""
+ball,1,0.5,England,AJ Strauss,AN Cook,JE Taylor,1,0,"",""
+ball,1,0.6,England,AN Cook,AJ Strauss,JE Taylor,0,0,"",""
+ball,1,1.1,England,AJ Strauss,AN Cook,FH Edwards,0,0,"",""
+ball,1,1.2,England,AJ Strauss,AN Cook,FH Edwards,1,0,"",""
+ball,1,1.3,England,AN Cook,AJ Strauss,FH Edwards,1,0,"",""
+ball,1,1.4,England,AJ Strauss,AN Cook,FH Edwards,0,0,"",""

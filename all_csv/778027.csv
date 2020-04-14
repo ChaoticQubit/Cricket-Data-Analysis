@@ -1,0 +1,150 @@
+version,1.3.0
+info,team,South Korea
+info,team,China
+info,gender,male
+info,season,2014/15
+info,date,2014/09/29
+info,series,Asian Games Men's Cricket Competition
+info,match_number,6
+info,venue,Yeonhui Cricket Ground
+info,city,Incheon
+info,toss_winner,China
+info,toss_decision,field
+info,umpire,M Kamruzzaman
+info,umpire,B Ramani
+info,reserve_umpire,Riaz Chaudhry
+info,match_referee,Aminul Islam
+info,winner,South Korea
+info,winner_runs,6
+ball,1,0.1,South Korea,Sunghoon Cho,Ilhwan Seo,Zhang Peng,2,0,"",""
+ball,1,0.2,South Korea,Sunghoon Cho,Ilhwan Seo,Zhang Peng,1,0,"",""
+ball,1,0.3,South Korea,Ilhwan Seo,Sunghoon Cho,Zhang Peng,3,0,"",""
+ball,1,0.4,South Korea,Sunghoon Cho,Ilhwan Seo,Zhang Peng,1,0,"",""
+ball,1,0.5,South Korea,Ilhwan Seo,Sunghoon Cho,Zhang Peng,0,1,"",""
+ball,1,0.6,South Korea,Ilhwan Seo,Sunghoon Cho,Zhang Peng,0,0,"",""
+ball,1,0.7,South Korea,Ilhwan Seo,Sunghoon Cho,Zhang Peng,0,3,"",""
+ball,1,0.8,South Korea,Ilhwan Seo,Sunghoon Cho,Zhang Peng,2,0,"",""
+ball,1,1.1,South Korea,Sunghoon Cho,Ilhwan Seo,Wang Jing,0,0,"",""
+ball,1,1.2,South Korea,Sunghoon Cho,Ilhwan Seo,Wang Jing,0,1,"",""
+ball,1,1.3,South Korea,Ilhwan Seo,Sunghoon Cho,Wang Jing,0,0,"",""
+ball,1,1.4,South Korea,Ilhwan Seo,Sunghoon Cho,Wang Jing,2,0,"",""
+ball,1,1.5,South Korea,Ilhwan Seo,Sunghoon Cho,Wang Jing,0,0,"",""
+ball,1,1.6,South Korea,Ilhwan Seo,Sunghoon Cho,Wang Jing,2,0,"",""
+ball,1,2.1,South Korea,Sunghoon Cho,Ilhwan Seo,H Min Jian,0,0,"",""
+ball,1,2.2,South Korea,Sunghoon Cho,Ilhwan Seo,H Min Jian,2,0,"",""
+ball,1,2.3,South Korea,Sunghoon Cho,Ilhwan Seo,H Min Jian,0,0,"",""
+ball,1,2.4,South Korea,Sunghoon Cho,Ilhwan Seo,H Min Jian,0,0,"",""
+ball,1,2.5,South Korea,Sunghoon Cho,Ilhwan Seo,H Min Jian,1,0,"",""
+ball,1,2.6,South Korea,Ilhwan Seo,Sunghoon Cho,H Min Jian,0,0,caught,Ilhwan Seo
+ball,1,3.1,South Korea,Sunghoon Cho,Daesik Sung,Wang Jing,2,0,"",""
+ball,1,3.2,South Korea,Sunghoon Cho,Daesik Sung,Wang Jing,0,0,"",""
+ball,1,3.3,South Korea,Sunghoon Cho,Daesik Sung,Wang Jing,2,0,"",""
+ball,1,3.4,South Korea,Sunghoon Cho,Daesik Sung,Wang Jing,1,0,"",""
+ball,1,3.5,South Korea,Daesik Sung,Sunghoon Cho,Wang Jing,2,0,"",""
+ball,1,3.6,South Korea,Daesik Sung,Sunghoon Cho,Wang Jing,1,0,"",""
+ball,1,4.1,South Korea,Daesik Sung,Sunghoon Cho,H Min Jian,1,0,"",""
+ball,1,4.2,South Korea,Sunghoon Cho,Daesik Sung,H Min Jian,0,0,"",""
+ball,1,4.3,South Korea,Sunghoon Cho,Daesik Sung,H Min Jian,2,0,"",""
+ball,1,4.4,South Korea,Sunghoon Cho,Daesik Sung,H Min Jian,0,0,"",""
+ball,1,4.5,South Korea,Sunghoon Cho,Daesik Sung,H Min Jian,1,0,"",""
+ball,1,4.6,South Korea,Daesik Sung,Sunghoon Cho,H Min Jian,4,0,"",""
+ball,1,5.1,South Korea,Sunghoon Cho,Daesik Sung,Song Yang Yang,1,0,"",""
+ball,1,5.2,South Korea,Daesik Sung,Sunghoon Cho,Song Yang Yang,1,0,"",""
+ball,1,5.3,South Korea,Sunghoon Cho,Daesik Sung,Song Yang Yang,1,0,"",""
+ball,1,5.4,South Korea,Daesik Sung,Sunghoon Cho,Song Yang Yang,2,0,"",""
+ball,1,5.5,South Korea,Daesik Sung,Sunghoon Cho,Song Yang Yang,6,0,"",""
+ball,1,5.6,South Korea,Daesik Sung,Sunghoon Cho,Song Yang Yang,6,0,"",""
+ball,1,6.1,South Korea,Sunghoon Cho,Daesik Sung,Zhang Yufei,1,0,"",""
+ball,1,6.2,South Korea,Daesik Sung,Sunghoon Cho,Zhang Yufei,1,0,"",""
+ball,1,6.3,South Korea,Sunghoon Cho,Daesik Sung,Zhang Yufei,1,0,"",""
+ball,1,6.4,South Korea,Daesik Sung,Sunghoon Cho,Zhang Yufei,0,1,"",""
+ball,1,6.5,South Korea,Daesik Sung,Sunghoon Cho,Zhang Yufei,0,1,"",""
+ball,1,6.6,South Korea,Sunghoon Cho,Daesik Sung,Zhang Yufei,0,1,"",""
+ball,1,6.7,South Korea,Sunghoon Cho,Daesik Sung,Zhang Yufei,1,0,"",""
+ball,1,6.8,South Korea,Daesik Sung,Sunghoon Cho,Zhang Yufei,4,0,"",""
+ball,1,7.1,South Korea,Sunghoon Cho,Daesik Sung,Zhong Wenyi,2,0,"",""
+ball,1,7.2,South Korea,Sunghoon Cho,Daesik Sung,Zhong Wenyi,0,0,"",""
+ball,1,7.3,South Korea,Sunghoon Cho,Daesik Sung,Zhong Wenyi,1,0,"",""
+ball,1,7.4,South Korea,Daesik Sung,Sunghoon Cho,Zhong Wenyi,1,0,"",""
+ball,1,7.5,South Korea,Sunghoon Cho,Daesik Sung,Zhong Wenyi,0,2,"",""
+ball,1,7.6,South Korea,Sunghoon Cho,Daesik Sung,Zhong Wenyi,0,0,caught,Sunghoon Cho
+ball,1,8.1,South Korea,Daesik Sung,Taekwan Park,Zhang Yufei,1,0,"",""
+ball,1,8.2,South Korea,Taekwan Park,Daesik Sung,Zhang Yufei,4,0,"",""
+ball,1,8.3,South Korea,Taekwan Park,Daesik Sung,Zhang Yufei,1,0,"",""
+ball,1,8.4,South Korea,Daesik Sung,Taekwan Park,Zhang Yufei,2,0,"",""
+ball,1,8.5,South Korea,Daesik Sung,Taekwan Park,Zhang Yufei,1,1,"",""
+ball,1,8.6,South Korea,Taekwan Park,Daesik Sung,Zhang Yufei,2,0,"",""
+ball,1,8.7,South Korea,Taekwan Park,Daesik Sung,Zhang Yufei,0,0,"",""
+ball,1,9.1,South Korea,Daesik Sung,Taekwan Park,Zhong Wenyi,0,0,stumped,Daesik Sung
+ball,1,9.2,South Korea,Hyobum An,Taekwan Park,Zhong Wenyi,0,0,stumped,Hyobum An
+ball,1,9.3,South Korea,Sangwook Lee,Taekwan Park,Zhong Wenyi,0,0,caught and bowled,Sangwook Lee
+ball,1,9.4,South Korea,Taekwan Park,Jiwon Choi,Zhong Wenyi,2,0,"",""
+ball,1,9.5,South Korea,Taekwan Park,Jiwon Choi,Zhong Wenyi,1,0,"",""
+ball,1,9.6,South Korea,Jiwon Choi,Taekwan Park,Zhong Wenyi,2,0,"",""
+ball,2,0.1,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,0,0,"",""
+ball,2,0.2,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,0,0,"",""
+ball,2,0.3,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,2,0,"",""
+ball,2,0.4,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,0,0,"",""
+ball,2,0.5,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,2,0,"",""
+ball,2,0.6,China,Jiang Shuyao,Song Yang Yang,Taekwan Park,0,0,"",""
+ball,2,1.1,China,Song Yang Yang,Jiang Shuyao,Inho Cha,1,0,"",""
+ball,2,1.2,China,Jiang Shuyao,Song Yang Yang,Inho Cha,1,0,"",""
+ball,2,1.3,China,Song Yang Yang,Jiang Shuyao,Inho Cha,0,0,"",""
+ball,2,1.4,China,Song Yang Yang,Jiang Shuyao,Inho Cha,1,0,"",""
+ball,2,1.5,China,Jiang Shuyao,Song Yang Yang,Inho Cha,1,0,"",""
+ball,2,1.6,China,Song Yang Yang,Jiang Shuyao,Inho Cha,4,0,"",""
+ball,2,2.1,China,Jiang Shuyao,Song Yang Yang,Kyungsik Kim,1,0,"",""
+ball,2,2.2,China,Song Yang Yang,Jiang Shuyao,Kyungsik Kim,0,0,"",""
+ball,2,2.3,China,Song Yang Yang,Jiang Shuyao,Kyungsik Kim,1,0,"",""
+ball,2,2.4,China,Jiang Shuyao,Song Yang Yang,Kyungsik Kim,0,0,caught,Jiang Shuyao
+ball,2,2.5,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,2,0,"",""
+ball,2,2.6,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,1,0,"",""
+ball,2,3.1,China,Song Yang Yang,Zhang Yufei,Inho Cha,1,0,"",""
+ball,2,3.2,China,Zhang Yufei,Song Yang Yang,Inho Cha,0,2,"",""
+ball,2,3.3,China,Song Yang Yang,Zhang Yufei,Inho Cha,0,1,"",""
+ball,2,3.4,China,Song Yang Yang,Zhang Yufei,Inho Cha,0,0,"",""
+ball,2,3.5,China,Song Yang Yang,Zhang Yufei,Inho Cha,1,0,"",""
+ball,2,3.6,China,Zhang Yufei,Song Yang Yang,Inho Cha,1,0,"",""
+ball,2,3.7,China,Song Yang Yang,Zhang Yufei,Inho Cha,1,0,"",""
+ball,2,3.8,China,Zhang Yufei,Song Yang Yang,Inho Cha,2,0,"",""
+ball,2,4.1,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,2,0,"",""
+ball,2,4.2,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,1,0,"",""
+ball,2,4.3,China,Zhang Yufei,Song Yang Yang,Kyungsik Kim,1,0,"",""
+ball,2,4.4,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,0,1,"",""
+ball,2,4.5,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,2,0,"",""
+ball,2,4.6,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,0,0,"",""
+ball,2,4.7,China,Song Yang Yang,Zhang Yufei,Kyungsik Kim,0,0,"",""
+ball,2,5.1,China,Zhang Yufei,Song Yang Yang,Hwanhee Lee,1,0,"",""
+ball,2,5.2,China,Song Yang Yang,Zhang Yufei,Hwanhee Lee,0,0,caught,Song Yang Yang
+ball,2,5.3,China,Zhang Yufei,Lei Sun,Hwanhee Lee,1,0,"",""
+ball,2,5.4,China,Lei Sun,Zhang Yufei,Hwanhee Lee,2,0,"",""
+ball,2,5.5,China,Lei Sun,Zhang Yufei,Hwanhee Lee,1,0,"",""
+ball,2,5.6,China,Zhang Yufei,Lei Sun,Hwanhee Lee,0,0,caught,Zhang Yufei
+ball,2,6.1,China,Li Jian,Lei Sun,Jiwon Choi,1,0,"",""
+ball,2,6.2,China,Lei Sun,Li Jian,Jiwon Choi,0,1,"",""
+ball,2,6.3,China,Lei Sun,Li Jian,Jiwon Choi,0,1,"",""
+ball,2,6.4,China,Lei Sun,Li Jian,Jiwon Choi,1,0,"",""
+ball,2,6.5,China,Li Jian,Lei Sun,Jiwon Choi,2,0,"",""
+ball,2,6.6,China,Li Jian,Lei Sun,Jiwon Choi,1,0,"",""
+ball,2,6.7,China,Lei Sun,Li Jian,Jiwon Choi,2,0,"",""
+ball,2,6.8,China,Lei Sun,Li Jian,Jiwon Choi,0,1,"",""
+ball,2,6.9,China,Lei Sun,Li Jian,Jiwon Choi,0,0,"",""
+ball,2,7.1,China,Li Jian,Lei Sun,Hwanhee Lee,4,0,"",""
+ball,2,7.2,China,Li Jian,Lei Sun,Hwanhee Lee,4,0,"",""
+ball,2,7.3,China,Li Jian,Lei Sun,Hwanhee Lee,3,0,"",""
+ball,2,7.4,China,Lei Sun,Li Jian,Hwanhee Lee,2,0,"",""
+ball,2,7.5,China,Lei Sun,Li Jian,Hwanhee Lee,0,0,run out,Li Jian
+ball,2,7.6,China,Zhong Wenyi,Lei Sun,Hwanhee Lee,2,0,"",""
+ball,2,8.1,China,Lei Sun,Zhong Wenyi,Jiwon Choi,1,0,"",""
+ball,2,8.2,China,Zhong Wenyi,Lei Sun,Jiwon Choi,1,0,"",""
+ball,2,8.3,China,Lei Sun,Zhong Wenyi,Jiwon Choi,2,0,"",""
+ball,2,8.4,China,Lei Sun,Zhong Wenyi,Jiwon Choi,2,0,"",""
+ball,2,8.5,China,Lei Sun,Zhong Wenyi,Jiwon Choi,1,0,"",""
+ball,2,8.6,China,Zhong Wenyi,Lei Sun,Jiwon Choi,1,0,"",""
+ball,2,9.1,China,Zhong Wenyi,Lei Sun,Taekwan Park,1,0,run out,Zhong Wenyi
+ball,2,9.2,China,Wang Jing,Lei Sun,Taekwan Park,0,0,run out,Wang Jing
+ball,2,9.3,China,H Min Jian,Lei Sun,Taekwan Park,0,0,bowled,H Min Jian
+ball,2,9.4,China,Zhang Peng,Lei Sun,Taekwan Park,0,0,"",""
+ball,2,9.5,China,Zhang Peng,Lei Sun,Taekwan Park,2,0,"",""
+ball,2,9.6,China,Zhang Peng,Lei Sun,Taekwan Park,0,5,"",""
+ball,2,9.7,China,Zhang Peng,Lei Sun,Taekwan Park,3,0,"",""

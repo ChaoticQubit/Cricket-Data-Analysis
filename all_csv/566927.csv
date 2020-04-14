@@ -1,0 +1,20 @@
+version,1.3.0
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2013
+info,date,2013/06/27
+info,series,New Zealand in England T20I Series
+info,match_number,2
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,umpire,RK Illingworth
+info,umpire,RT Robinson
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,MA Gough
+info,match_referee,J Srinath
+info,outcome,no result
+ball,1,0.1,England,MJ Lumb,AD Hales,MJ McClenaghan,2,0,"",""
+ball,1,0.2,England,MJ Lumb,AD Hales,MJ McClenaghan,0,0,caught,MJ Lumb

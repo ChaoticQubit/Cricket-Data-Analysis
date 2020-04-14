@@ -1,0 +1,49 @@
+version,1.3.0
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2012/13
+info,date,2013/03/25
+info,series,Bangladesh in Sri Lanka ODI Series
+info,match_number,2
+info,venue,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+info,city,Hambantota
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,TH Wijewardene
+info,reserve_umpire,HMNC Dhanasinghe
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,DC Boon
+info,outcome,no result
+ball,1,0.1,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,0.2,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,1,0,"",""
+ball,1,0.3,Sri Lanka,TM Dilshan,MDKJ Perera,Rubel Hossain,4,0,"",""
+ball,1,0.4,Sri Lanka,TM Dilshan,MDKJ Perera,Rubel Hossain,0,0,"",""
+ball,1,0.5,Sri Lanka,TM Dilshan,MDKJ Perera,Rubel Hossain,3,0,"",""
+ball,1,0.6,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,1,0,"",""
+ball,1,1.1,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,"",""
+ball,1,1.2,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,1,"",""
+ball,1,1.3,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,"",""
+ball,1,1.4,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,4,0,"",""
+ball,1,1.5,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,"",""
+ball,1,1.6,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,"",""
+ball,1,1.7,Sri Lanka,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,"",""
+ball,1,2.1,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,4,0,"",""
+ball,1,2.2,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,2.3,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,2,0,"",""
+ball,1,2.4,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,2.5,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,2.6,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,3.1,Sri Lanka,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,"",""
+ball,1,3.2,Sri Lanka,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,"",""
+ball,1,3.3,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,"",""
+ball,1,3.4,Sri Lanka,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,"",""
+ball,1,3.5,Sri Lanka,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,"",""
+ball,1,3.6,Sri Lanka,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,"",""
+ball,1,4.1,Sri Lanka,TM Dilshan,MDKJ Perera,Rubel Hossain,1,0,"",""
+ball,1,4.2,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,4,"",""
+ball,1,4.3,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,4.4,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,4.5,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,0,0,"",""
+ball,1,4.6,Sri Lanka,MDKJ Perera,TM Dilshan,Rubel Hossain,4,0,"",""

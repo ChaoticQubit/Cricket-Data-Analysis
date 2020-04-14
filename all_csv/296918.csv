@@ -1,0 +1,36 @@
+version,1.3.0
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2008
+info,date,2008/09/03
+info,series,NatWest Series
+info,match_number,5
+info,venue,Sophia Gardens
+info,city,Cardiff
+info,toss_winner,England
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,SJA Taufel
+info,reserve_umpire,PJ Hartley
+info,tv_umpire,RA Kettleborough
+info,match_referee,RS Mahanama
+info,outcome,no result
+ball,1,0.1,South Africa,HH Gibbs,HM Amla,JM Anderson,2,0,"",""
+ball,1,0.2,South Africa,HH Gibbs,HM Amla,JM Anderson,0,0,"",""
+ball,1,0.3,South Africa,HH Gibbs,HM Amla,JM Anderson,0,0,"",""
+ball,1,0.4,South Africa,HH Gibbs,HM Amla,JM Anderson,1,0,"",""
+ball,1,0.5,South Africa,HM Amla,HH Gibbs,JM Anderson,0,0,"",""
+ball,1,0.6,South Africa,HM Amla,HH Gibbs,JM Anderson,0,0,"",""
+ball,1,1.1,South Africa,HH Gibbs,HM Amla,SCJ Broad,0,0,"",""
+ball,1,1.2,South Africa,HH Gibbs,HM Amla,SCJ Broad,0,0,"",""
+ball,1,1.3,South Africa,HH Gibbs,HM Amla,SCJ Broad,0,0,caught,HH Gibbs
+ball,1,1.4,South Africa,JH Kallis,HM Amla,SCJ Broad,0,0,"",""
+ball,1,1.5,South Africa,JH Kallis,HM Amla,SCJ Broad,0,0,"",""
+ball,1,1.6,South Africa,JH Kallis,HM Amla,SCJ Broad,0,0,"",""
+ball,1,2.1,South Africa,HM Amla,JH Kallis,JM Anderson,2,0,"",""
+ball,1,2.2,South Africa,HM Amla,JH Kallis,JM Anderson,0,0,"",""
+ball,1,2.3,South Africa,HM Amla,JH Kallis,JM Anderson,0,0,"",""
+ball,1,2.4,South Africa,HM Amla,JH Kallis,JM Anderson,1,0,"",""
+ball,1,2.5,South Africa,JH Kallis,HM Amla,JM Anderson,0,0,"",""
+ball,1,2.6,South Africa,JH Kallis,HM Amla,JM Anderson,0,0,"",""

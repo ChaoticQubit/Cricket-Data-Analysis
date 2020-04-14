@@ -1,0 +1,65 @@
+version,1.3.0
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2009
+info,date,2009/07/05
+info,series,India in West Indies ODI Series
+info,match_number,4
+info,venue,"Beausejour Stadium, Gros Islet"
+info,city,St Lucia
+info,toss_winner,India
+info,toss_decision,field
+info,umpire,CR Duncan
+info,umpire,NJ Llong
+info,reserve_umpire,VV Bullen
+info,tv_umpire,GE Greaves
+info,match_referee,BC Broad
+info,outcome,no result
+ball,1,0.1,West Indies,CH Gayle,RS Morton,I Sharma,0,0,"",""
+ball,1,0.2,West Indies,CH Gayle,RS Morton,I Sharma,0,0,caught,CH Gayle
+ball,1,0.3,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,0.4,West Indies,RR Sarwan,RS Morton,I Sharma,1,0,"",""
+ball,1,0.5,West Indies,RS Morton,RR Sarwan,I Sharma,0,0,"",""
+ball,1,0.6,West Indies,RS Morton,RR Sarwan,I Sharma,2,0,"",""
+ball,1,1.1,West Indies,RR Sarwan,RS Morton,A Nehra,1,0,"",""
+ball,1,1.2,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,1.3,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,1.4,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,1.5,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,1.6,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,2.1,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,2.2,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,2.3,West Indies,RR Sarwan,RS Morton,I Sharma,2,0,"",""
+ball,1,2.4,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,2.5,West Indies,RR Sarwan,RS Morton,I Sharma,1,0,"",""
+ball,1,2.6,West Indies,RS Morton,RR Sarwan,I Sharma,0,0,"",""
+ball,1,3.1,West Indies,RR Sarwan,RS Morton,A Nehra,1,0,"",""
+ball,1,3.2,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,3.3,West Indies,RS Morton,RR Sarwan,A Nehra,3,0,"",""
+ball,1,3.4,West Indies,RR Sarwan,RS Morton,A Nehra,0,1,"",""
+ball,1,3.5,West Indies,RR Sarwan,RS Morton,A Nehra,0,0,"",""
+ball,1,3.6,West Indies,RR Sarwan,RS Morton,A Nehra,0,0,"",""
+ball,1,3.7,West Indies,RR Sarwan,RS Morton,A Nehra,0,0,"",""
+ball,1,4.1,West Indies,RS Morton,RR Sarwan,I Sharma,1,0,"",""
+ball,1,4.2,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,4.3,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,4.4,West Indies,RR Sarwan,RS Morton,I Sharma,1,0,"",""
+ball,1,4.5,West Indies,RS Morton,RR Sarwan,I Sharma,1,0,"",""
+ball,1,4.6,West Indies,RR Sarwan,RS Morton,I Sharma,0,0,"",""
+ball,1,5.1,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,5.2,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,5.3,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,5.4,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,5.5,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,5.6,West Indies,RS Morton,RR Sarwan,A Nehra,0,0,"",""
+ball,1,6.1,West Indies,RR Sarwan,RS Morton,I Sharma,0,1,"",""
+ball,1,6.2,West Indies,RS Morton,RR Sarwan,I Sharma,2,0,"",""
+ball,1,6.3,West Indies,RS Morton,RR Sarwan,I Sharma,2,0,"",""
+ball,1,6.4,West Indies,RS Morton,RR Sarwan,I Sharma,1,0,"",""
+ball,1,6.5,West Indies,RR Sarwan,RS Morton,I Sharma,3,0,"",""
+ball,1,6.6,West Indies,RS Morton,RR Sarwan,I Sharma,0,0,"",""
+ball,1,7.1,West Indies,RR Sarwan,RS Morton,A Nehra,2,0,"",""
+ball,1,7.2,West Indies,RR Sarwan,RS Morton,A Nehra,0,0,"",""
+ball,1,7.3,West Indies,RR Sarwan,RS Morton,A Nehra,0,0,"",""
+ball,1,7.4,West Indies,RR Sarwan,RS Morton,A Nehra,0,1,"",""

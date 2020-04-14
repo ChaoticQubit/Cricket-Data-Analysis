@@ -1,0 +1,146 @@
+version,1.3.0
+info,team,South Africa
+info,team,Sri Lanka
+info,gender,male
+info,season,2016/17
+info,date,2017/01/20
+info,series,Sri Lanka in South Africa T20I Series
+info,match_number,1
+info,venue,SuperSport Park
+info,city,Centurion
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,L Ngidi
+info,umpire,S George
+info,umpire,AT Holdstock
+info,reserve_umpire,A Paleker
+info,tv_umpire,BP Jele
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_runs,19
+ball,1,0.1,South Africa,JT Smuts,HG Kuhn,AD Mathews,1,0,"",""
+ball,1,0.2,South Africa,HG Kuhn,JT Smuts,AD Mathews,4,0,"",""
+ball,1,0.3,South Africa,HG Kuhn,JT Smuts,AD Mathews,1,0,"",""
+ball,1,0.4,South Africa,JT Smuts,HG Kuhn,AD Mathews,1,0,"",""
+ball,1,0.5,South Africa,HG Kuhn,JT Smuts,AD Mathews,1,0,"",""
+ball,1,0.6,South Africa,JT Smuts,HG Kuhn,AD Mathews,0,1,"",""
+ball,1,0.7,South Africa,JT Smuts,HG Kuhn,AD Mathews,1,0,"",""
+ball,1,1.1,South Africa,JT Smuts,HG Kuhn,KMDN Kulasekara,0,1,"",""
+ball,1,1.2,South Africa,HG Kuhn,JT Smuts,KMDN Kulasekara,0,0,"",""
+ball,1,1.3,South Africa,HG Kuhn,JT Smuts,KMDN Kulasekara,4,0,"",""
+ball,1,1.4,South Africa,HG Kuhn,JT Smuts,KMDN Kulasekara,0,0,lbw,HG Kuhn
+ball,1,1.5,South Africa,TB de Bruyn,JT Smuts,KMDN Kulasekara,4,0,"",""
+ball,1,1.6,South Africa,TB de Bruyn,JT Smuts,KMDN Kulasekara,0,0,"",""
+ball,1,2.1,South Africa,JT Smuts,TB de Bruyn,RAS Lakmal,4,0,"",""
+ball,1,2.2,South Africa,JT Smuts,TB de Bruyn,RAS Lakmal,0,1,"",""
+ball,1,2.3,South Africa,JT Smuts,TB de Bruyn,RAS Lakmal,0,0,"",""
+ball,1,2.4,South Africa,JT Smuts,TB de Bruyn,RAS Lakmal,6,0,"",""
+ball,1,2.5,South Africa,JT Smuts,TB de Bruyn,RAS Lakmal,0,0,caught,JT Smuts
+ball,1,2.6,South Africa,TB de Bruyn,DA Miller,RAS Lakmal,6,0,"",""
+ball,1,2.7,South Africa,TB de Bruyn,DA Miller,RAS Lakmal,1,0,"",""
+ball,1,3.1,South Africa,TB de Bruyn,DA Miller,DAS Gunaratne,1,0,"",""
+ball,1,3.2,South Africa,DA Miller,TB de Bruyn,DAS Gunaratne,1,0,"",""
+ball,1,3.3,South Africa,TB de Bruyn,DA Miller,DAS Gunaratne,1,0,"",""
+ball,1,3.4,South Africa,DA Miller,TB de Bruyn,DAS Gunaratne,1,0,"",""
+ball,1,3.5,South Africa,TB de Bruyn,DA Miller,DAS Gunaratne,1,0,"",""
+ball,1,3.6,South Africa,DA Miller,TB de Bruyn,DAS Gunaratne,0,0,"",""
+ball,1,4.1,South Africa,TB de Bruyn,DA Miller,S Prasanna,4,0,"",""
+ball,1,4.2,South Africa,TB de Bruyn,DA Miller,S Prasanna,1,0,"",""
+ball,1,4.3,South Africa,DA Miller,TB de Bruyn,S Prasanna,6,0,"",""
+ball,1,4.4,South Africa,DA Miller,TB de Bruyn,S Prasanna,1,0,"",""
+ball,1,4.5,South Africa,TB de Bruyn,DA Miller,S Prasanna,0,0,caught,TB de Bruyn
+ball,1,4.6,South Africa,F Behardien,DA Miller,S Prasanna,0,1,"",""
+ball,1,4.7,South Africa,F Behardien,DA Miller,S Prasanna,1,0,"",""
+ball,1,5.1,South Africa,F Behardien,DA Miller,DAS Gunaratne,1,0,"",""
+ball,1,5.2,South Africa,DA Miller,F Behardien,DAS Gunaratne,0,1,"",""
+ball,1,5.3,South Africa,DA Miller,F Behardien,DAS Gunaratne,1,0,"",""
+ball,1,5.4,South Africa,F Behardien,DA Miller,DAS Gunaratne,2,0,"",""
+ball,1,5.5,South Africa,F Behardien,DA Miller,DAS Gunaratne,0,0,"",""
+ball,1,5.6,South Africa,F Behardien,DA Miller,DAS Gunaratne,1,0,"",""
+ball,1,5.7,South Africa,DA Miller,F Behardien,DAS Gunaratne,1,0,"",""
+ball,1,6.1,South Africa,DA Miller,F Behardien,N Pradeep,1,0,"",""
+ball,1,6.2,South Africa,F Behardien,DA Miller,N Pradeep,4,0,"",""
+ball,1,6.3,South Africa,F Behardien,DA Miller,N Pradeep,0,0,"",""
+ball,1,6.4,South Africa,F Behardien,DA Miller,N Pradeep,1,0,"",""
+ball,1,6.5,South Africa,DA Miller,F Behardien,N Pradeep,1,0,"",""
+ball,1,6.6,South Africa,F Behardien,DA Miller,N Pradeep,4,0,"",""
+ball,1,7.1,South Africa,DA Miller,F Behardien,AD Mathews,1,0,"",""
+ball,1,7.2,South Africa,F Behardien,DA Miller,AD Mathews,1,0,"",""
+ball,1,7.3,South Africa,DA Miller,F Behardien,AD Mathews,6,0,"",""
+ball,1,7.4,South Africa,DA Miller,F Behardien,AD Mathews,0,1,"",""
+ball,1,7.5,South Africa,DA Miller,F Behardien,AD Mathews,2,0,"",""
+ball,1,7.6,South Africa,DA Miller,F Behardien,AD Mathews,4,0,"",""
+ball,1,7.7,South Africa,DA Miller,F Behardien,AD Mathews,4,0,"",""
+ball,1,8.1,South Africa,F Behardien,DA Miller,KMDN Kulasekara,1,0,"",""
+ball,1,8.2,South Africa,DA Miller,F Behardien,KMDN Kulasekara,0,1,"",""
+ball,1,8.3,South Africa,DA Miller,F Behardien,KMDN Kulasekara,4,0,"",""
+ball,1,8.4,South Africa,DA Miller,F Behardien,KMDN Kulasekara,6,0,"",""
+ball,1,8.5,South Africa,DA Miller,F Behardien,KMDN Kulasekara,0,0,caught,DA Miller
+ball,1,8.6,South Africa,F Behardien,M Mosehle,KMDN Kulasekara,1,0,"",""
+ball,1,8.7,South Africa,M Mosehle,F Behardien,KMDN Kulasekara,6,0,"",""
+ball,1,9.1,South Africa,F Behardien,M Mosehle,N Pradeep,0,0,"",""
+ball,1,9.2,South Africa,F Behardien,M Mosehle,N Pradeep,4,0,"",""
+ball,1,9.3,South Africa,F Behardien,M Mosehle,N Pradeep,6,0,"",""
+ball,1,9.4,South Africa,F Behardien,M Mosehle,N Pradeep,2,0,"",""
+ball,1,9.5,South Africa,F Behardien,M Mosehle,N Pradeep,1,0,run out,M Mosehle
+ball,1,9.6,South Africa,F Behardien,WD Parnell,N Pradeep,1,0,"",""
+ball,2,0.1,Sri Lanka,N Dickwella,DM de Silva,L Ngidi,0,1,"",""
+ball,2,0.2,Sri Lanka,DM de Silva,N Dickwella,L Ngidi,0,0,"",""
+ball,2,0.3,Sri Lanka,DM de Silva,N Dickwella,L Ngidi,4,0,"",""
+ball,2,0.4,Sri Lanka,DM de Silva,N Dickwella,L Ngidi,0,0,"",""
+ball,2,0.5,Sri Lanka,DM de Silva,N Dickwella,L Ngidi,4,0,"",""
+ball,2,0.6,Sri Lanka,DM de Silva,N Dickwella,L Ngidi,0,0,"",""
+ball,2,1.1,Sri Lanka,N Dickwella,DM de Silva,WD Parnell,0,0,"",""
+ball,2,1.2,Sri Lanka,N Dickwella,DM de Silva,WD Parnell,4,0,"",""
+ball,2,1.3,Sri Lanka,N Dickwella,DM de Silva,WD Parnell,4,0,"",""
+ball,2,1.4,Sri Lanka,N Dickwella,DM de Silva,WD Parnell,4,0,"",""
+ball,2,1.5,Sri Lanka,N Dickwella,DM de Silva,WD Parnell,0,1,"",""
+ball,2,1.6,Sri Lanka,DM de Silva,N Dickwella,WD Parnell,2,0,"",""
+ball,2,2.1,Sri Lanka,N Dickwella,DM de Silva,AL Phehlukwayo,6,0,"",""
+ball,2,2.2,Sri Lanka,N Dickwella,DM de Silva,AL Phehlukwayo,2,0,"",""
+ball,2,2.3,Sri Lanka,N Dickwella,DM de Silva,AL Phehlukwayo,4,0,"",""
+ball,2,2.4,Sri Lanka,N Dickwella,DM de Silva,AL Phehlukwayo,2,0,"",""
+ball,2,2.5,Sri Lanka,N Dickwella,DM de Silva,AL Phehlukwayo,1,0,"",""
+ball,2,2.6,Sri Lanka,DM de Silva,N Dickwella,AL Phehlukwayo,1,0,"",""
+ball,2,3.1,Sri Lanka,DM de Silva,N Dickwella,Imran Tahir,1,0,"",""
+ball,2,3.2,Sri Lanka,N Dickwella,DM de Silva,Imran Tahir,1,0,"",""
+ball,2,3.3,Sri Lanka,DM de Silva,N Dickwella,Imran Tahir,0,0,"",""
+ball,2,3.4,Sri Lanka,DM de Silva,N Dickwella,Imran Tahir,1,0,"",""
+ball,2,3.5,Sri Lanka,N Dickwella,DM de Silva,Imran Tahir,0,0,"",""
+ball,2,3.6,Sri Lanka,N Dickwella,DM de Silva,Imran Tahir,6,0,"",""
+ball,2,4.1,Sri Lanka,DM de Silva,N Dickwella,AM Phangiso,0,0,"",""
+ball,2,4.2,Sri Lanka,DM de Silva,N Dickwella,AM Phangiso,1,0,"",""
+ball,2,4.3,Sri Lanka,N Dickwella,DM de Silva,AM Phangiso,0,0,"",""
+ball,2,4.4,Sri Lanka,N Dickwella,DM de Silva,AM Phangiso,4,0,"",""
+ball,2,4.5,Sri Lanka,N Dickwella,DM de Silva,AM Phangiso,4,0,"",""
+ball,2,4.6,Sri Lanka,N Dickwella,DM de Silva,AM Phangiso,1,0,"",""
+ball,2,5.1,Sri Lanka,N Dickwella,DM de Silva,Imran Tahir,0,0,caught,N Dickwella
+ball,2,5.2,Sri Lanka,DM de Silva,AD Mathews,Imran Tahir,6,0,"",""
+ball,2,5.3,Sri Lanka,DM de Silva,AD Mathews,Imran Tahir,6,0,"",""
+ball,2,5.4,Sri Lanka,DM de Silva,AD Mathews,Imran Tahir,1,0,"",""
+ball,2,5.5,Sri Lanka,AD Mathews,DM de Silva,Imran Tahir,1,0,"",""
+ball,2,5.6,Sri Lanka,DM de Silva,AD Mathews,Imran Tahir,0,0,bowled,DM de Silva
+ball,2,6.1,Sri Lanka,AD Mathews,ST de Silva,AM Phangiso,1,0,"",""
+ball,2,6.2,Sri Lanka,ST de Silva,AD Mathews,AM Phangiso,0,0,caught,ST de Silva
+ball,2,6.3,Sri Lanka,AD Mathews,S Prasanna,AM Phangiso,0,0,"",""
+ball,2,6.4,Sri Lanka,AD Mathews,S Prasanna,AM Phangiso,1,0,"",""
+ball,2,6.5,Sri Lanka,S Prasanna,AD Mathews,AM Phangiso,6,0,"",""
+ball,2,6.6,Sri Lanka,S Prasanna,AD Mathews,AM Phangiso,6,0,"",""
+ball,2,7.1,Sri Lanka,AD Mathews,S Prasanna,L Ngidi,1,0,"",""
+ball,2,7.2,Sri Lanka,S Prasanna,AD Mathews,L Ngidi,0,0,caught,S Prasanna
+ball,2,7.3,Sri Lanka,BKG Mendis,AD Mathews,L Ngidi,1,0,"",""
+ball,2,7.4,Sri Lanka,AD Mathews,BKG Mendis,L Ngidi,1,0,"",""
+ball,2,7.5,Sri Lanka,BKG Mendis,AD Mathews,L Ngidi,0,0,caught,BKG Mendis
+ball,2,7.6,Sri Lanka,AD Mathews,LD Chandimal,L Ngidi,1,0,"",""
+ball,2,8.1,Sri Lanka,AD Mathews,LD Chandimal,WD Parnell,0,0,caught,AD Mathews
+ball,2,8.2,Sri Lanka,DAS Gunaratne,LD Chandimal,WD Parnell,1,0,"",""
+ball,2,8.3,Sri Lanka,LD Chandimal,DAS Gunaratne,WD Parnell,0,0,"",""
+ball,2,8.4,Sri Lanka,LD Chandimal,DAS Gunaratne,WD Parnell,1,0,"",""
+ball,2,8.5,Sri Lanka,DAS Gunaratne,LD Chandimal,WD Parnell,6,0,"",""
+ball,2,8.6,Sri Lanka,DAS Gunaratne,LD Chandimal,WD Parnell,1,0,"",""
+ball,2,9.1,Sri Lanka,DAS Gunaratne,LD Chandimal,AL Phehlukwayo,1,0,"",""
+ball,2,9.2,Sri Lanka,LD Chandimal,DAS Gunaratne,AL Phehlukwayo,0,0,"",""
+ball,2,9.3,Sri Lanka,LD Chandimal,DAS Gunaratne,AL Phehlukwayo,4,0,"",""
+ball,2,9.4,Sri Lanka,LD Chandimal,DAS Gunaratne,AL Phehlukwayo,1,0,"",""
+ball,2,9.5,Sri Lanka,DAS Gunaratne,LD Chandimal,AL Phehlukwayo,0,0,"",""
+ball,2,9.6,Sri Lanka,DAS Gunaratne,LD Chandimal,AL Phehlukwayo,1,0,"",""

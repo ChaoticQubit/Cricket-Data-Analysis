@@ -1,0 +1,40 @@
+version,1.3.0
+info,team,Sri Lanka
+info,team,India
+info,gender,male
+info,season,2006
+info,date,2006/08/18
+info,date,2006/08/19
+info,series,India in Sri Lanka ODI Series
+info,match_number,1
+info,venue,Sinhalese Sports Club Ground
+info,city,Colombo
+info,toss_winner,India
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,EAR de Silva
+info,tv_umpire,TH Wijewardene
+info,match_referee,BC Broad
+info,outcome,no result
+ball,1,0.1,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,0.2,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,0.3,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,0.4,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,0.5,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,0.6,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,1.1,India,SR Tendulkar,R Dravid,SL Malinga,1,0,"",""
+ball,1,1.2,India,R Dravid,SR Tendulkar,SL Malinga,0,0,"",""
+ball,1,1.3,India,R Dravid,SR Tendulkar,SL Malinga,0,0,"",""
+ball,1,1.4,India,R Dravid,SR Tendulkar,SL Malinga,4,0,"",""
+ball,1,1.5,India,R Dravid,SR Tendulkar,SL Malinga,0,0,"",""
+ball,1,1.6,India,R Dravid,SR Tendulkar,SL Malinga,1,0,"",""
+ball,1,2.1,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,2.2,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,2.3,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,2.4,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,2.5,India,R Dravid,SR Tendulkar,WPUJC Vaas,0,0,"",""
+ball,1,2.6,India,R Dravid,SR Tendulkar,WPUJC Vaas,4,0,"",""
+ball,1,3.1,India,SR Tendulkar,R Dravid,SL Malinga,0,0,"",""
+ball,1,3.2,India,SR Tendulkar,R Dravid,SL Malinga,1,0,"",""
+ball,1,3.3,India,R Dravid,SR Tendulkar,SL Malinga,0,0,"",""
+ball,1,3.4,India,R Dravid,SR Tendulkar,SL Malinga,0,0,"",""

@@ -1,0 +1,87 @@
+version,1.3.0
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,male
+info,season,2014/15
+info,date,2014/10/02
+info,series,Asian Games Men's Cricket Competition
+info,venue,Yeonhui Cricket Ground
+info,city,Incheon
+info,neutralvenue,true
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,umpire,Sarika Prasad
+info,umpire,B Ramani
+info,reserve_umpire,Riaz Chaudhry
+info,match_referee,SLV Raju
+info,outcome,no result
+ball,1,0.1,Bangladesh,Tamim Iqbal,Anamul Haque,LHD Dilhara,0,0,"",""
+ball,1,0.2,Bangladesh,Tamim Iqbal,Anamul Haque,LHD Dilhara,0,1,"",""
+ball,1,0.3,Bangladesh,Anamul Haque,Tamim Iqbal,LHD Dilhara,0,0,caught,Anamul Haque
+ball,1,0.4,Bangladesh,Mohammad Mithun,Tamim Iqbal,LHD Dilhara,0,0,"",""
+ball,1,0.5,Bangladesh,Mohammad Mithun,Tamim Iqbal,LHD Dilhara,0,0,"",""
+ball,1,0.6,Bangladesh,Mohammad Mithun,Tamim Iqbal,LHD Dilhara,0,0,"",""
+ball,1,1.1,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,0,0,"",""
+ball,1,1.2,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,0,0,"",""
+ball,1,1.3,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,0,0,"",""
+ball,1,1.4,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,0,0,"",""
+ball,1,1.5,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,0,0,"",""
+ball,1,1.6,Bangladesh,Tamim Iqbal,Mohammad Mithun,I Udana,1,0,"",""
+ball,1,2.1,Bangladesh,Tamim Iqbal,Mohammad Mithun,LHD Dilhara,0,0,"",""
+ball,1,2.2,Bangladesh,Tamim Iqbal,Mohammad Mithun,LHD Dilhara,0,1,"",""
+ball,1,2.3,Bangladesh,Mohammad Mithun,Tamim Iqbal,LHD Dilhara,0,0,bowled,Mohammad Mithun
+ball,1,2.4,Bangladesh,Shakib Al Hasan,Tamim Iqbal,LHD Dilhara,1,0,"",""
+ball,1,2.5,Bangladesh,Tamim Iqbal,Shakib Al Hasan,LHD Dilhara,1,0,"",""
+ball,1,2.6,Bangladesh,Shakib Al Hasan,Tamim Iqbal,LHD Dilhara,0,0,"",""
+ball,1,3.1,Bangladesh,Tamim Iqbal,Shakib Al Hasan,I Udana,1,0,"",""
+ball,1,3.2,Bangladesh,Shakib Al Hasan,Tamim Iqbal,I Udana,0,0,caught,Shakib Al Hasan
+ball,1,3.3,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,4,0,"",""
+ball,1,3.4,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,0,0,"",""
+ball,1,3.5,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,1,0,"",""
+ball,1,3.6,Bangladesh,Sabbir Rahman,Tamim Iqbal,I Udana,0,0,"",""
+ball,1,4.1,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,1,0,"",""
+ball,1,4.2,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,1,0,"",""
+ball,1,4.3,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,1,0,"",""
+ball,1,4.4,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,4,0,"",""
+ball,1,4.5,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,0,0,"",""
+ball,1,4.6,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,0,0,"",""
+ball,1,5.1,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,0,1,"",""
+ball,1,5.2,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,1,0,"",""
+ball,1,5.3,Bangladesh,Sabbir Rahman,Tamim Iqbal,I Udana,0,0,"",""
+ball,1,5.4,Bangladesh,Sabbir Rahman,Tamim Iqbal,I Udana,0,0,"",""
+ball,1,5.5,Bangladesh,Sabbir Rahman,Tamim Iqbal,I Udana,0,0,"",""
+ball,1,5.6,Bangladesh,Sabbir Rahman,Tamim Iqbal,I Udana,1,0,"",""
+ball,1,5.7,Bangladesh,Tamim Iqbal,Sabbir Rahman,I Udana,0,0,"",""
+ball,1,6.1,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,0,0,"",""
+ball,1,6.2,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,2,0,"",""
+ball,1,6.3,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,1,0,"",""
+ball,1,6.4,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,0,1,"",""
+ball,1,6.5,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,1,0,"",""
+ball,1,6.6,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,1,0,"",""
+ball,1,6.7,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,1,0,"",""
+ball,1,7.1,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,1,0,"",""
+ball,1,7.2,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,0,0,"",""
+ball,1,7.3,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,1,0,"",""
+ball,1,7.4,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,0,0,"",""
+ball,1,7.5,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,4,0,"",""
+ball,1,7.6,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,0,0,"",""
+ball,1,8.1,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,1,0,"",""
+ball,1,8.2,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,0,0,"",""
+ball,1,8.3,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,1,0,"",""
+ball,1,8.4,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,6,0,"",""
+ball,1,8.5,Bangladesh,Sabbir Rahman,Tamim Iqbal,RLB Rambukwella,1,0,"",""
+ball,1,8.6,Bangladesh,Tamim Iqbal,Sabbir Rahman,RLB Rambukwella,0,0,"",""
+ball,1,9.1,Bangladesh,Sabbir Rahman,Tamim Iqbal,BMAJ Mendis,0,0,"",""
+ball,1,9.2,Bangladesh,Sabbir Rahman,Tamim Iqbal,BMAJ Mendis,1,0,"",""
+ball,1,9.3,Bangladesh,Tamim Iqbal,Sabbir Rahman,BMAJ Mendis,1,0,"",""
+ball,1,9.4,Bangladesh,Sabbir Rahman,Tamim Iqbal,BMAJ Mendis,1,0,"",""
+ball,1,9.5,Bangladesh,Tamim Iqbal,Sabbir Rahman,BMAJ Mendis,0,1,"",""
+ball,1,9.6,Bangladesh,Tamim Iqbal,Sabbir Rahman,BMAJ Mendis,1,0,"",""
+ball,1,9.7,Bangladesh,Sabbir Rahman,Tamim Iqbal,BMAJ Mendis,0,1,"",""
+ball,1,10.1,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,1,0,"",""
+ball,1,10.2,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,2,0,"",""
+ball,1,10.3,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,1,0,"",""
+ball,1,10.4,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,4,0,"",""
+ball,1,10.5,Bangladesh,Sabbir Rahman,Tamim Iqbal,CKB Kulasekara,1,0,"",""
+ball,1,10.6,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,0,1,"",""
+ball,1,10.7,Bangladesh,Tamim Iqbal,Sabbir Rahman,CKB Kulasekara,0,0,"",""
